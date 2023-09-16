@@ -2,38 +2,44 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Funcionários </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Funcionários ativos da Empresa </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Utilizarão a aplicação para inserir os dados referentes aos treinamentos realizados, identificando o setor a qual pertencem.</td>
 </tr>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Analista de Recursos Humanos </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Analista de Recursos Humanos responsável pela equipe de treinamentos </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Utilizará a aplicação para mensurar, a partir dos dados disponibilizados dos funcionários, a carga horária dedicada por setor, além de possibilitar traçar metas e identificar setores cujo acompanhamento deve ser mais próximo.</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Funcionário        | ...                       | ...                              |
+| Analista de Recursos Humanos| ...                       | ...                              |
 
 ## Requisitos do Projeto
 
