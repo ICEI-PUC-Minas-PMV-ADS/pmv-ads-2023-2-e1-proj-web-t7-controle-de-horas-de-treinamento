@@ -7,7 +7,7 @@
 
 `2023/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Criar uma aplicação web que possibilite o registro de treinamentos realizados por seus colaboradores.
 
 ## Integrantes
 
