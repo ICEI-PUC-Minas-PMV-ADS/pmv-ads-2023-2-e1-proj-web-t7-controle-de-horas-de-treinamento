@@ -38,32 +38,32 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Funcionário        | ...                       | ...                              |
-| Analista de Recursos Humanos| ...                       | ...                              |
+| Funcionário        | Inserir informações de treinamentos e cursos realizados 	|Proporcionar novas oportunidades dentro da empresa. |
+| Analista de Recursos Humanos|Mensurar as horas de treinamento realizadas por setor	|Elaborar metas de desenvolvimento dos funcionários.|
+|Analista de Recursos Humanos| Atualizar dados cadastrais dos funcionários |Manter a base de registros da empresa atualizada, possibilitando maior monitoramento.|
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF- 01 |	Permitir a inserção de dados sobre os treinamentos e cursos realizados	|Alta |
+RF- 02 |	Gerar relatório com o histórico dos registros realizados	|Alta |
+RF- 03 	|Gerar um relatório específico extraindo o número de horas categorizadas por setor|	Alta |
+RF- 04 |	Gerar visualização com o comparativo de horas de treinamento por setor|	Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
-|--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+|-----------|-------------------------|----|
+|RNF-01|	A aplicação web deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho. |	Baixa |
+|RNF-02|	A aplicação web deve ser responsível e capaz de rodar em diferentes plataformas.	|Alta |
+|RNF-03|A aplicação web deve ser fácil de usar e entender.| 	Alta |
+|RNF-04|	Atender aos requisitos da LGPD.	|Alta|
 
 **Prioridade: Alta / Média / Baixa. 
 
