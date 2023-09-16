@@ -1,11 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/teYJD0R3)
 # Título do Projeto
 
-`CURSO`
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 07`
 
-`SEMESTRE`
+`2023/2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
@@ -21,7 +21,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Orientador
 
-* Nome completo do professor
+* Marcos André Silveira Kutova
 
 # Documentação
 
