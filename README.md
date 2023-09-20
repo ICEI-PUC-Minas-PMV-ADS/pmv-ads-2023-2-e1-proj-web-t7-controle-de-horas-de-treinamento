@@ -17,7 +17,6 @@ Criar uma aplicação web que possibilite o registro de treinamentos realizados 
 * Leonardo Engler Arruda
 * Leonardo Santos Zanette
 * Matheus Vinicio Santos Costa
-* Veruska Teixeira Ferreira
 
 ## Orientador
 
