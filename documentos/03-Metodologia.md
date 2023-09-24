@@ -57,17 +57,33 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe de forma detalhada para acompanhamento do projeto, execução das tarefas e status de desenvolvimento da solução.
 - Sprint 1:
 
-*Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
+  *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
 
-*Execução*: nessa etapa foram detalhadas as seguintes partes Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação.
+  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação.
 
-*Evidência*:
+  *Evidência*:
+  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8b3ef376-61b9-4602-ba42-678d6407e3cf)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/16c87ef2-05c1-4c6e-8232-1122b3cd64a1)
 
-- Sprint 2:
-- 
+- Sprint 2: 
 
+  *Planejamento*: foram desenvolvidas as etapas de Projeto da solução, como a Metodologia e Projeto de Interface.
+
+  *Execução*: nessa etapa foram detalhadas as seguintes partes - Definição da metodologia Scrum, Divisão dos papéis, Detalhamento dos processos, Descrição das etiquetas usadas para organização, Ferramentas utilizadas e Estratégia de organização de codificação.
+
+  *Evidência*:
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/04a23233-7e2c-48be-b7f6-152700141b66)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/3cc1e507-ea5d-4330-852b-c2c5fe44c267)
+
+  - Sprint 3:
+
+  *Planejamento*: 
+
+  *Execução*: 
+
+  *Evidência*:
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
