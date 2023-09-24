@@ -59,7 +59,7 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
   *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
 
-  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação.
+  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação. Foram feitas algumas reuniões via Teams para alinhamento de equipe, mas a interação não foi como desejada.
 
   *Evidência*:
   
@@ -70,7 +70,7 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
   *Planejamento*: foram desenvolvidas as etapas de Projeto da solução, como a Metodologia e Projeto de Interface.
 
-  *Execução*: nessa etapa foram detalhadas as seguintes partes - Definição da metodologia Scrum, Divisão dos papéis, Detalhamento dos processos, Descrição das etiquetas usadas para organização, Ferramentas utilizadas e Estratégia de organização de codificação.
+  *Execução*: nessa etapa foram detalhadas as seguintes partes - Definição da metodologia Scrum, Divisão dos papéis, Detalhamento dos processos, Descrição das etiquetas usadas para organização, Ferramentas utilizadas e Estratégia de organização de codificação. Foram feitas algumas reuniões via Teams e envio de mensagens via Whatsapp para alinhamento de equipe, mas a interação não foi como desejada. Tivemos também a desistência de um membro da equipe.
 
   *Evidência*:
 
@@ -84,6 +84,7 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
   *Execução*: 
 
   *Evidência*:
+  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
