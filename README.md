@@ -7,7 +7,7 @@
 
 `2023/2`
 
-Criar uma aplicação web que possibilite o registro de treinamentos realizados por seus colaboradores.
+Criar uma aplicação web que possibilite registrar e controlar as horas de treinamentos realizadas pelos funcionários de uma empresa.
 
 ## Integrantes
 
