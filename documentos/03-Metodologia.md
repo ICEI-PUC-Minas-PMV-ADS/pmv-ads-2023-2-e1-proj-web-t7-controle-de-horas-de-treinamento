@@ -56,9 +56,12 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe de forma detalhada para acompanhamento do projeto, execução das tarefas e status de desenvolvimento da solução.
 - Sprint 1:
+
 *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
+
 *Execução*: nessa etapa foram detalhadas as seguintes partes Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação.
-*Evidência:
+
+*Evidência*:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8b3ef376-61b9-4602-ba42-678d6407e3cf)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/16c87ef2-05c1-4c6e-8232-1122b3cd64a1)
 
