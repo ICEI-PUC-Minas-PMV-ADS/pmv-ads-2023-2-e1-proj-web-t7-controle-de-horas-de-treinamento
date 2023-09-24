@@ -11,13 +11,42 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. Por esse motivo, se faz necessário criar divisões de papéis entre os membros da equipe. São eles:
+- Scrum Master: Daniella Santos Costa, principal responsável pela gestão do projeto.
 
+- Product Owner: Matheus Vinicio Santos Costa, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+
+- Equipe de Documentação: responsáveis por relatar todas as etapas do projeo
+  André Samuel Teixeira Fernandes;
+  Daniella Santos Costa;
+  Dhavi Vilella Malafaya;
+  Leonardo Engler Arruda;
+  Leonardo Santos Zanette;
+  Matheus Vinício Santos Costa (responsável).
+
+- Equipe de Design: responsávies por criar o layout das páginas de acordo com o fluxo do usuário
+  André Samuel Teixeira Fernandes;
+  Daniella Santos Costa (responsável);
+  Dhavi Vilella Malafaya;
+  Leonardo Engler Arruda;
+  Leonardo Santos Zanette;
+  Matheus Vinício Santos Costa.
+  
+- Equipe de Desenvolvimento: responsáveis por desenvolver as aplicações necessárias para atender ao detalhamento das documentações
+  André Samuel Teixeira Fernandes;
+  Daniella Santos Costa;
+  Dhavi Vilella Malafaya;
+  Leonardo Engler Arruda (responsável);
+  Leonardo Santos Zanette;
+  Matheus Vinício Santos Costa.
+
+- Equipe de Revisão: responsáveis por analisarem todas as partes dos projetos fazendo os ajustes necessários
+  André Samuel Teixeira Fernandes (responsável);
+  Daniella Santos Costa;
+  Dhavi Vilella Malafaya;
+  Leonardo Engler Arruda;
+  Leonardo Santos Zanette;
+  Matheus Vinício Santos Costa.
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
 > Projeto](https://mindmaster.com.br/scrum-11-passos/)
