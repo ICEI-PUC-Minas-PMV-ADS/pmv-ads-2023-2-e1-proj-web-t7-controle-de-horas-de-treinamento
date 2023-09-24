@@ -22,11 +22,11 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
   Leonardo Santos Zanette;
-  Matheus Vinício Santos Costa (responsável).
+  Matheus Vinício Santos Costa *(responsável)*.
 
 - Equipe de Design: responsávies por criar o layout das páginas de acordo com o fluxo do usuário -
   André Samuel Teixeira Fernandes;
-  Daniella Santos Costa (responsável);
+  Daniella Santos Costa *(responsável)*;
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
   Leonardo Santos Zanette;
@@ -36,12 +36,12 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   André Samuel Teixeira Fernandes;
   Daniella Santos Costa;
   Dhavi Vilella Malafaya;
-  Leonardo Engler Arruda (responsável);
+  Leonardo Engler Arruda *(responsável)*;
   Leonardo Santos Zanette;
   Matheus Vinício Santos Costa.
 
 - Equipe de Revisão: responsáveis por analisarem todas as partes dos projetos fazendo os ajustes necessários
-  André Samuel Teixeira Fernandes (responsável);
+  André Samuel Teixeira Fernandes *(responsável)*;
   Daniella Santos Costa;
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
@@ -54,11 +54,16 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe de forma detalhada para acompanhamento do projeto, execução das tarefas e status de desenvolvimento da solução.
+- Sprint 1:
+*Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
+*Execução*: nessa etapa foram detalhadas as seguintes partes Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação.
+*Evidência:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8b3ef376-61b9-4602-ba42-678d6407e3cf)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/16c87ef2-05c1-4c6e-8232-1122b3cd64a1)
+
+- Sprint 2:
+- 
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
