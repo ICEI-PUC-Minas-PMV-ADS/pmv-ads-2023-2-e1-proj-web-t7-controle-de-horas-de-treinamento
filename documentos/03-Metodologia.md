@@ -16,7 +16,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 - Product Owner: Matheus Vinicio Santos Costa, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
 
-- Equipe de Documentação: responsáveis por relatar todas as etapas do projeo
+- Equipe de Documentação: responsáveis por relatar todas as etapas do projeto -
   André Samuel Teixeira Fernandes;
   Daniella Santos Costa;
   Dhavi Vilella Malafaya;
@@ -24,7 +24,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   Leonardo Santos Zanette;
   Matheus Vinício Santos Costa (responsável).
 
-- Equipe de Design: responsávies por criar o layout das páginas de acordo com o fluxo do usuário
+- Equipe de Design: responsávies por criar o layout das páginas de acordo com o fluxo do usuário -
   André Samuel Teixeira Fernandes;
   Daniella Santos Costa (responsável);
   Dhavi Vilella Malafaya;
@@ -32,7 +32,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   Leonardo Santos Zanette;
   Matheus Vinício Santos Costa.
   
-- Equipe de Desenvolvimento: responsáveis por desenvolver as aplicações necessárias para atender ao detalhamento das documentações
+- Equipe de Desenvolvimento: responsáveis por desenvolver as aplicações necessárias para atender ao detalhamento das documentações -
   André Samuel Teixeira Fernandes;
   Daniella Santos Costa;
   Dhavi Vilella Malafaya;
