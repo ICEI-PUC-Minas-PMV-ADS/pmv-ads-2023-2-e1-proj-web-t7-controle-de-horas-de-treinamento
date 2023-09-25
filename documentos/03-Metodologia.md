@@ -55,7 +55,7 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
   *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
 
-  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação. Foram feitas algumas reuniões via Teams para alinhamento de equipe, mas a interação não foi como desejada.
+  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo, além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação. Foram feitas algumas reuniões via Teams para alinhamento de equipe, mas a interação não foi como desejada.
 
   *Evidência*:
   
