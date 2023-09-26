@@ -32,4 +32,16 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [Figma](https://www.figma.com/)
 
 
+![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/2d78d9e2-30b1-4f38-991e-93e366df5de3)
 
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/48b63cbd-1f36-418d-b169-6f437cd3869d)
+
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/585640d1-5ff3-47a6-a004-9abbb5dd6e27)
+
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6f54ce94-519b-44ab-bf00-bc0cb5c568ca)
+
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/1ffebc3e-bc4d-4385-bf02-3db111ed07a6)
+
+![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/73d40b4b-f738-4875-8736-efdc4d4b5a09)
+
+![7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/71430c3e-fcb0-4266-bf7e-a237eed77c60)
