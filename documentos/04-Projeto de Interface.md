@@ -27,16 +27,20 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [Figma](https://www.figma.com/)
 
 
-![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/2d78d9e2-30b1-4f38-991e-93e366df5de3)
+![1 CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dd4403fa-bca2-4372-adb3-b50916806c4f)
 
-![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/48b63cbd-1f36-418d-b169-6f437cd3869d)
+![2 CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dbb27b96-e56c-4f40-bacf-61aa903a6844)
 
-![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/585640d1-5ff3-47a6-a004-9abbb5dd6e27)
+![3 LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/9d184850-57fd-4de3-8e95-8bcaa35e5160)
 
-![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6f54ce94-519b-44ab-bf00-bc0cb5c568ca)
+![4 ESQUECI SENHA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/2f3ebcfa-c43e-44fe-a64f-0e26c880d5e4)
 
-![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/1ffebc3e-bc4d-4385-bf02-3db111ed07a6)
+![5 INÍCIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/5e28ee89-db7b-4c07-b3b9-60d24e8d6947)
 
-![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/73d40b4b-f738-4875-8736-efdc4d4b5a09)
+![6 SOBRE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/06bf41c0-08d4-4cdf-80d3-e939aec8581a)
 
-![7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/71430c3e-fcb0-4266-bf7e-a237eed77c60)
+![7 EQUIPE DE TREINAMENTOS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/4964d90a-2fcd-4ab5-99c3-23f11bf0b27f)
+
+![8 FUNCIONÁRIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dd8bc034-7047-442a-8aee-5d7613bae200)
+
+![9 FUNCIONÁRIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/d9483645-58c9-4384-a18a-2c13498c4480)
