@@ -106,10 +106,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | [Qualifique](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                         |
-| User Flow               | miro                             | [Fluxo do usuário](https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402)                           |
-|Reunião de planejamento da Sprint| Microsoft Teams| [Reunião Sprint](https://www.microsoft.com/pt-br/microsoft-teams/log-in)
-| Projeto de Interface                | Figma                              | http://....                            |
+| Repositório de código fonte         | GitHub                             | [Qualifique](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                |
+| User Flow                           | Miro                               | [Fluxo do usuário](https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
+|Reunião de planejamento da Sprint    | Microsoft Teams                    | [Reunião Sprint](https://www.microsoft.com/pt-br/microsoft-teams/log-in) |
+| Projeto de Interface                | Canva                              | [http://....](https://www.canva.com/)  |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
