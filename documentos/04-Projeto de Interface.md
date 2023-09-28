@@ -9,38 +9,39 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 > ## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento.
 
 ### Protótipo de baixa fidelidade
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+Segue abaixo a sequencia das principais interfaces gráficas da aplicação 
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+A primeira etapa é iniciar o registro do usuário informando o número de código de pessoa e estar de acordo com as políticas de privacidade e LGPD.
+![1 página de registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dccee272-09c1-43bd-a345-526ebb62d1dc)
 
+Logo em seguida, o usuário deve informar nome completo, e-mail, senha e setor no qual está alocado.
+![2 criar login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/2c79ff82-b0b0-4ba0-9558-62bb12c40d36)
 
-![1 CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dd4403fa-bca2-4372-adb3-b50916806c4f)
+Após inserção das informações de cadastro é o momento de realizar o login.
+![3 efetuar o login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/396844fc-718b-4e5d-afaf-be6986c48f4f)
 
-![2 CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dbb27b96-e56c-4f40-bacf-61aa903a6844)
+Caso o usuário esqueça sua senha, ele poderá clicar em "esqueci minha senha" na tela de login, no qual será encaminhado para a tela de recuperação de senha. Ao preencher o e-mail, o usuário irá para receber, por e-mail, um link para alterar senha. Após alteração o usuário dever retornar à página de login.
+![4 esqueci a senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/845a599f-67fb-4f78-a43e-66cc7323b2d2)
 
-![3 LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/9d184850-57fd-4de3-8e95-8bcaa35e5160)
+Após login efetuado, teremos algumas diferenciações de acordo com as permissões (funcionários ou equipe de treinamentos). 
 
-![4 ESQUECI SENHA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/2f3ebcfa-c43e-44fe-a64f-0e26c880d5e4)
+A equipe de treinamentos, terá uma permissão diferente que permitirá gerar relatórios com o histórico dos registros feitos pelos funcionários da empresa, gerar relatórios específicos com o número de horas de treinamentos categorizadas por setor, além de gerar comparativo de horas de treinamento por setor.
+![5 equipe de treinamentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/f0e55ea9-be49-4266-954c-1de1a4f0f7c8)
 
-![5 INÍCIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/5e28ee89-db7b-4c07-b3b9-60d24e8d6947)
+Os demais funcionários da instituição, após a página de login, terão acesso a uma página inicial de boas-vindas onde terão acesso aos outros menus da aplicação, sendo eles "Sobre", "Registros e "Contatos".
+![6 página inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/0e8a654e-53b0-47ab-a80d-db12e528eb8b)
 
-![6 SOBRE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/06bf41c0-08d4-4cdf-80d3-e939aec8581a)
+Na página "Sobre" serão feitas considerações importantes sobre a relevância dos funcionários sempre se manterem atualizados e em contante aprendizado além de falar sobre a atuação da equipe de treinamentos ao realizar o levantamento das horas de treinamento de todos os setores da empresa.
+![7 sobre](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/a5e53a3e-edfb-4cf4-9545-67e0186bd2cb)
 
-![7 EQUIPE DE TREINAMENTOS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/4964d90a-2fcd-4ab5-99c3-23f11bf0b27f)
+Na página "Registro - +Add new" o usuário poderá incluir o registro, em campos específicos, dos cursos que foram ralizados por ele .
+![8 incluir novo cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6db353a5-4429-43e9-b1c8-0010944cdc6c)
 
-![8 FUNCIONÁRIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/dd8bc034-7047-442a-8aee-5d7613bae200)
-
-![9 FUNCIONÁRIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/d9483645-58c9-4384-a18a-2c13498c4480)
+Na página "Registro - Acompanhamento" o usuário terá acesso a todos os registros já feitos por ele, além de ter uma visuialização gráfica para acompanhamento.
+![9 acompanhamento de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/7ed0eade-6fc3-4b33-aab0-c34fc2ace521)
