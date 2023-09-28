@@ -106,6 +106,8 @@ Descrição:
 
 <li> Wontfix:	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão</li>
 <figure>
+  <img src-"https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145296577/b073b414-ea8d-46ca-9ed0-4e789665141f)
+
 </figure> 
   
   <li>Bug (Erro no código)</li>
