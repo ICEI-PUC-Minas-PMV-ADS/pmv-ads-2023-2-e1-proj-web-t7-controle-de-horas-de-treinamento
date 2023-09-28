@@ -86,16 +86,25 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
 <ul>
   
-Rótulo	Descrição
-bug	Indica um problema inesperado ou um comportamento não intencional
-documentation	Indica a necessidade de aprimoramentos ou adições à documentação
-duplicate	Indica problemas, solicitações de pull ou discussões semelhantes
-enhancement	Indica novas solicitações de recurso
-good first issue	Indica um bom problema para contribuidores principiantes
-help wanted	Indica que um mantenedor deseja ajudar em um problema ou uma pull request
-invalid	Indica que um problema, uma solicitação de pull ou uma discussão não é mais relevante
-question	Indica que um problema, uma solicitação de pull ou uma discussão precisa de mais informações
-wontfix	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão
+Descrição:
+
+<li>bug	Indica um problema inesperado ou um comportamento não intencional</li>
+
+<li>documentation:	Indica a necessidade de aprimoramentos ou adições à documentação</li>
+
+<li>duplicate:	Indica problemas, solicitações de pull ou discussões semelhantes</li>
+
+<li>enhancement:	Indica novas solicitações de recurso</li>
+
+<li>good first issue:	Indica um bom problema para contribuidores principiantes</li>
+
+<li>help wanted:	Indica que um mantenedor deseja ajudar em um problema ou uma pull request</li>
+
+<li>invalid:	Indica que um problema, uma solicitação de pull ou uma discussão não é mais relevante</li>
+
+<li>question:	Indica que um problema, uma solicitação de pull ou uma discussão precisa de mais informações</li>
+
+<li>wontfix:	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão</li>
 
   <li>Bug (Erro no código)</li>
   <li>Desenvolvimento (Development)</li>
