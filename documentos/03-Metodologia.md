@@ -85,6 +85,18 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
+  
+Rótulo	Descrição
+bug	Indica um problema inesperado ou um comportamento não intencional
+documentation	Indica a necessidade de aprimoramentos ou adições à documentação
+duplicate	Indica problemas, solicitações de pull ou discussões semelhantes
+enhancement	Indica novas solicitações de recurso
+good first issue	Indica um bom problema para contribuidores principiantes
+help wanted	Indica que um mantenedor deseja ajudar em um problema ou uma pull request
+invalid	Indica que um problema, uma solicitação de pull ou uma discussão não é mais relevante
+question	Indica que um problema, uma solicitação de pull ou uma discussão precisa de mais informações
+wontfix	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão
+
   <li>Bug (Erro no código)</li>
   <li>Desenvolvimento (Development)</li>
   <li>Documentação (Documentation)</li>
