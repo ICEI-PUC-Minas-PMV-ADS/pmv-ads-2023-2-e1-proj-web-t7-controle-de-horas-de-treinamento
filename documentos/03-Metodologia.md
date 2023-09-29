@@ -106,7 +106,7 @@ Descrição:
 
 <li> Wontfix:	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão</li>
 <figure>
-  <img src-"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/etiquetas.png"
 
 </figure> 
   
