@@ -87,11 +87,17 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 Descrição:
 
  -Documentação: Indica a necessidade de aprimoramentos ou adições à documentação
+
  -Duplicado:	Indica algum problema já existente ou discussões semelhantes (para codificações)
+ 
  -Erro: Indica que algo não está funcionando (para codificações)
+
  -Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
+
  -Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
+ 
  -Inválido: Indica algo que não está de acordo com o planejado (para codificações)
+
  -Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
 
 As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: todas as etiquetas de tonalidade vermelha e laranja se referem às codificações; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela pode ser usada em todo o processo.
@@ -121,15 +127,25 @@ Todos os artefatos relacionados a implementação e visualização dos conteúdo
 ### Instruções de utilização
 
 - Pasta src (root do projeto): index.html, index.css, index.js
+
 - Pasta src\components - Diretório responsável por elementos da página que vão ser comuns em todas as visualizações do sistema, como menus laterais, menus superiores e rodapés.
+
 - Pasta src\area-nao-logada\insira-seu-codigo: insira-seu-codigo.html, insira-seu-codigo.css, insira-seu-codigo.js
+
 - Pasta src\area-nao-logada\cadastro: cadastro.html, cadastro.css, cadastro.js
+
 - Pasta src\area-nao-logada\login: login.html, login.css, login.js
+
 - Pasta src\area-nao-logada\esqueci-minha-senha: esqueci-minha-senha.html, esqueci-minha-senha.css, esqueci-minha-senha.js
+
 - Pasta src\area-logada\home-gestor: home-gestor.html, home-gestor.css, home-gestor.js
+
 - Pasta src\area-logada\home-colaborador: home-colaborador.html, home-colaborador.css, home-colaborador.js
+
 - Pasta src\area-logada\sobre: sobre.html, sobre.css, sobre.js
+
 - Pasta src\area-logada\adicionar-registro: adicionar-registro.html, adicionar-registro.css, adicionar-registro.js
+
 - Pasta src\area-logada\meus-registros: meus-registros.html, meus-registros.css, meus-registros.js
 
 ### Instalação do Site
@@ -140,4 +156,5 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 [0.1.0] - DD/MM/AAAA
 Adicionado/Atualizado/Removido
+
 - Relação de artefatos ...
