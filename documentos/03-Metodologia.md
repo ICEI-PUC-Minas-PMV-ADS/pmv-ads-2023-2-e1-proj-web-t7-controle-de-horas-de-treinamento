@@ -86,13 +86,13 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 
 Descrição:
 
-*Documentação: Indica a necessidade de aprimoramentos ou adições à documentação
-*Duplicado:	Indica algum problema já existente ou discussões semelhantes (para codificações)
-*Erro: Indica que algo não está funcionando (para codificações)
-*Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
-*Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
-*Inválido: Indica algo que não está de acordo com o planejado (para codificações)
-*Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
+-Documentação: Indica a necessidade de aprimoramentos ou adições à documentação
+-Duplicado:	Indica algum problema já existente ou discussões semelhantes (para codificações)
+-Erro: Indica que algo não está funcionando (para codificações)
+-Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
+-Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
+-Inválido: Indica algo que não está de acordo com o planejado (para codificações)
+-Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
 
 As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: todas as etiquetas de tonalidade vermelha e laranja se referem às codificações; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela pode ser usada em todo o processo.
 
