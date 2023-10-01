@@ -82,44 +82,34 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
   *Evidência*:
 
 ### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
+As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
-<ul>
-  
 Descrição:
 
-<li> Bug	Indica um problema inesperado ou um comportamento não intencional</li>
+*Documentação: Indica a necessidade de aprimoramentos ou adições à documentação
+*Duplicado:	Indica algum problema já existente ou discussões semelhantes (para codificações)
+*Erro: Indica que algo não está funcionando (para codificações)
+*Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
+*Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
+*Inválido: Indica algo que não está de acordo com o planejado (para codificações)
+*Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
 
-<li> Documentation:	Indica a necessidade de aprimoramentos ou adições à documentação</li>
+As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: todas as etiquetas de tonalidade vermelha e laranja se referem às codificações; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela pode ser usada em todo o processo.
 
-<li> Duplicate:	Indica problemas, solicitações de pull ou discussões semelhantes</li>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/50590626-9718-4f31-b647-8fa4800b1af5)
 
-<li> Enhancement:	Indica novas solicitações de recurso</li>
-
-<li> Good first issue:	Indica um bom problema para contribuidores principiantes</li>
-
-<li> Help wanted:	Indica que um mantenedor deseja ajudar em um problema ou uma pull request</li>
-
-<li> Invalid:	Indica que um problema, uma solicitação de pull ou uma discussão não é mais relevante</li>
-
-<li> Question:	Indica que um problema, uma solicitação de pull ou uma discussão precisa de mais informações</li>
-
-<li> Wontfix:	Indica que o trabalho não continuará em um problema, solicitação de pull ou discussão</li>
-<figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/etiquetas.png">
-
-  
+ 
 ### Ferramentas
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | [Qualifique](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                |
-| User Flow                           | Miro                               | [Fluxo do usuário](https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
+| Repositório de código fonte         | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                |
+| User Flow                           | Miro                               | (https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
 |Reunião de planejamento da Sprint    | Microsoft Teams                    | [Reunião Sprint](https://www.microsoft.com/pt-br/microsoft-teams/log-in) |
-| Projeto de Interface                | Canva                              | [http://....](https://www.canva.com/)  |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Projeto de Interface                | Canva                              | (https://www.canva.com/)  |
+| Gerenciamento do Projeto            | GitHub Projects                    | (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
