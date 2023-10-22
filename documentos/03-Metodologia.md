@@ -102,21 +102,17 @@ Descrição:
 
 - Documentação: Indica a necessidade de aprimoramentos ou adições à documentação
 
-- Duplicado:	Indica algum problema já existente ou discussões semelhantes (para codificações)
- 
-- Erro: Indica que algo não está funcionando (para codificações)
-
 - Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
 
 - Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
  
-- Inválido: Indica algo que não está de acordo com o planejado (para codificações)
-
 - Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
 
-As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: todas as etiquetas de tonalidade vermelha e laranja se referem às codificações; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela pode ser usada em todo o processo.
+- Reunião: Indica a necessidade de alinhamento entre os membros da equipe
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/50590626-9718-4f31-b647-8fa4800b1af5)
+As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: etiquetas de tonalidade laranja se referem às codificações e desenho da interface; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela repreenta um alesta de revisão e a etiqueta de cor verde representa as reunião.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/c1fb4ab1-c410-48e6-94d8-fbd115b55709)
 
  
 ### Ferramentas
