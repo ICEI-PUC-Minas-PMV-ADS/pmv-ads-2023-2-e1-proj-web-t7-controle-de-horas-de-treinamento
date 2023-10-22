@@ -29,13 +29,13 @@ A equipe de treinamentos, terá uma permissão diferente onde será possível ge
 ![7 treinamentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/94360587-a22f-456f-aad5-21f407475b62)
 
 Os demais funcionários da instituição, após a página de login, terão acesso a uma página inicial de boas-vindas onde terão acesso aos outros menus da aplicação, sendo eles "Sobre" e "Registros".
-![3 página inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/008685b9-7de2-4c24-a982-c961e9f1f0af)
+![3 página inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8c1a4d52-9176-4cc6-86e6-c94ff19f3e8c)
 
-Na página "Sobre" serão feitas considerações importantes sobre a relevância dos funcionários sempre se manterem atualizados e em contante aprendizado além de falar sobre a atuação da equipe de treinamentos ao realizar o levantamento das horas de treinamento de todos os setores da empresa.
-![4 sobre](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6c328a96-e5c0-43c4-a655-37c04f147d39)
+Na página "Sobre" serão feitas considerações importantes sobre a relevância dos funcionários sempre se manterem atualizados e em constante aprendizado além de falar sobre a atuação da equipe de treinamentos ao realizar o levantamento das horas de treinamento de todos os setores da empresa.
+![4 sobre](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6f2ea293-0e58-4222-8c14-7067cd93425f)
 
-Na página "Registro" o usuário terá acesso a todos os registros já feitos por ele, além de ter uma visuialização gráfica para acompanhamento.
-![5 acompanhamento de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/cafea22a-f58a-496b-a32c-ee6decea659f)
+Na página "Registro" o usuário terá acesso a todos os registros já feitos por ele, além de ter uma visualização gráfica para acompanhamento.
+![5 acompanhamento de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/42c71923-4b6a-4dd1-8796-1508265374d8)
 
 Ainda na página "Registro" o usuário poderá clicar em "novo registro" para adicionar informaçãos sobre novos cursos ou trinamentos por ele realizados.
-![6 registro incluir novo cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/e8d4e1e8-2a38-456b-8746-03368e2725d1)
+![6 registro incluir novo cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/57718425-7262-435e-955c-aee638490db1)
