@@ -53,20 +53,20 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe de forma detalhada para acompanhamento do projeto, execução das tarefas e status de desenvolvimento da solução.
 - Sprint 1:
 
-  *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos
+  *Planejamento*: foram desenvolvidas as etapas iniciais do projeto, como a análise do problema e especificação de requisitos. Nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo, além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criada a primeira versão da apresentação. Foram feitas algumas reuniões via Teams para alinhamento de equipe, mas a interação não foi como desejada.
 
-  *Execução*: nessa etapa foram detalhadas as seguintes partes - Introdução, Problema, Objetivos, Justificativa, Público Alvo, além de definir o Perfis de Usuários, as Histórias dos usuários e os Requisitos do Projeto (Requisitos Funcionais e Requisitos não funcionais). Aqui também foi criado a primeira versão da apresentação. Foram feitas algumas reuniões via Teams para alinhamento de equipe, mas a interação não foi como desejada.
+  *Execução*: por ser uma parte inicial, e para que todos do grupo entendessem qual seria a idéia do projeto a ser desenvolvida, foi necessário um participação muito grande do Product Owner (Matheus Vinicio) em conjunto com a Scrum Master (Daniella Costa) para detalhar melhor os objetivos, justificativas e principalmente os usuários e requisitos funcionais. Foi realizada uma reunião de alinhamento, via Microft Teams, e as demais comunicações foram realizadas através de grupo via Whatsapp. Neste momento o grupo não estava totalmente engajado, sem muita participação dos demias membros.
 
   *Evidência*:
   
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8b3ef376-61b9-4602-ba42-678d6407e3cf)
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8b3ef376-61b9-4602-ba42-678d6407e3cf)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/16c87ef2-05c1-4c6e-8232-1122b3cd64a1)
 
 - Sprint 2: 
 
-  *Planejamento*: foram desenvolvidas as etapas de Projeto da solução, como a Metodologia e Projeto de Interface.
+  *Planejamento*: foram desenvolvidas as etapas de Projeto da solução, como a Metodologia e Projeto de Interface. Nessa etapa foram detalhadas as seguintes partes - Definição da metodologia Scrum, Divisão dos papéis, Detalhamento dos processos, Descrição das etiquetas usadas para organização, Ferramentas utilizadas e Estratégia de organização de codificação. 
 
-  *Execução*: nessa etapa foram detalhadas as seguintes partes - Definição da metodologia Scrum, Divisão dos papéis, Detalhamento dos processos, Descrição das etiquetas usadas para organização, Ferramentas utilizadas e Estratégia de organização de codificação. Foram feitas algumas reuniões via Teams e envio de mensagens via Whatsapp para alinhamento de equipe, mas a interação não foi como desejada. Tivemos também a desistência de um membro da equipe.
+  *Execução*: ainda sem a participação dos demais membros do grupo, os grandes responsáveis pela execução da segunda etapa foram o Product Owner (Matheus Vinicio) em conjunto com a Scrum Master (Daniella Costa). Tivemos também a desistência de um membro da equipe. Foi realizada uma reunião de alinhamento, via Microft Teams, e as demais comunicações foram realizadas através de grupo via Whatsapp, mas as interações não foram como desejadas. Nessa etapa, na montagem da estrutura de interface, optamos pela utilização do Canva devido ao conhecimento de forma mais aprofundada de suas funcionalidades. Outas ferramentas, a exemplo do Figma, foram testadas, mas devido ao prazo de entrega previsto e à falta de conhecimento em manuzear a ferramenta, deixamos sua utilização de lado e optamos pelo que seria mais rápido e fácil.
 
   *Evidência*:
 
@@ -74,6 +74,20 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/3cc1e507-ea5d-4330-852b-c2c5fe44c267)
 
   - Sprint 3:
+
+  *Planejamento*: foram desenvolvidas a primeira parte da solução, onde foi criado o template da aplicação, determinando o layout padrão da solução em HTML e CSS. Em reunião de equipe, definimos que seguiriamos com o desenvolvimento de tela da trilha do usuário, no caso, do funcionário que irá informar as suas horas cumpridas em cursos e treinamentos.
+
+  *Execução*: como a participação da equipe não foi satisfatória nas etapas anteriores, resolvemos adotar uma outra estratégia para envolver todos os membros. Foi realizado no dia 16/10/2023 às 20h, via Microsoft Teams, uma reunião de alinhamento e definição de tarefas individuais e também as datas dos nossos próximos encontros para alinhamento. Uma das definição foi a decisão de que cada membro ficaria com a elaboração dos códigos de cada tela que foi apresentada na etapa anterior como interface. Foi disponibilizado para todos os membros da equipe o link de acesso ao modelo de interface criado no Canva, para que todos tivessem acesso às fontes, tamanhos e cores utilizadas.
+
+  *Evidência*:
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/7be4d3d2-c051-4ad8-91af-1bb0515a7d29)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/f4fb9377-5ba5-4199-9b41-7cd2d2232bbf)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/d1cebcae-6f91-4afa-ac10-b7ebbb171256)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/1e9b4e1e-2cff-4d29-afcc-e9b7f1c01323)
+
+
+- Sprint 4:
 
   *Planejamento*: 
 
@@ -111,11 +125,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                |
-| User Flow                           | Miro                               | (https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
+| Repositório de código fonte         | GitHub                             | [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento)                |
+| User Flow                           | Miro                               | [Miro](https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
 |Reunião de planejamento da Sprint    | Microsoft Teams                    | [Reunião Sprint](https://www.microsoft.com/pt-br/microsoft-teams/log-in) |
-| Projeto de Interface                | Canva                              | (https://www.canva.com/)  |
-| Gerenciamento do Projeto            | GitHub Projects                    | (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                            |
+| Projeto de Interface                | Canva                              | [Canva](https://www.canva.com/)  |
+| Gerenciamento do Projeto            | GitHub Projects                    | [GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
