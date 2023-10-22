@@ -73,7 +73,7 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/04a23233-7e2c-48be-b7f6-152700141b66)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/3cc1e507-ea5d-4330-852b-c2c5fe44c267)
 
-  - Sprint 3:
+- Sprint 3: 
 
   *Planejamento*: foram desenvolvidas a primeira parte da solução, onde foi criado o template da aplicação, determinando o layout padrão da solução em HTML e CSS. Em reunião de equipe, definimos que seguiriamos com o desenvolvimento de tela da trilha do usuário, no caso, do funcionário que irá informar as suas horas cumpridas em cursos e treinamentos.
 
