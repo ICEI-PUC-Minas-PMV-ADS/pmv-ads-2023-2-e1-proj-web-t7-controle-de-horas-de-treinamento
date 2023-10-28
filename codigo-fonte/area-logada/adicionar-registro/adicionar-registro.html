@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -9,6 +9,12 @@
 </head>
 
 <body>
+    <div class="header">
+        <ul id="menu">
+            <li><a href="#">REGISTROS</a></li>
+            <li><a href="#">SOBRE</a></li>
+            <li><a href="#">PÁGINA INICIAL</a></li>
+        </ul>  
     <div class="container-pagina">
         <form>
             <div class="container-linha">
@@ -17,41 +23,68 @@
                     <input class="field" type="text" name="curso" id="curso">
                 </div>
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
+                    <label>CARGA HORÁRIA</label>
+                    <input class="field" type="number" name="curso" id="curso">
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
+                    <label>TIPO</label>
+                    <select class="tipo">
+                        <option selected="" disabled="" value="">Selecione</option>
+                        <option>Curso de Curta Duração</option>
+                        <option>Workshop</option>
+                        <option>Vídeo Aula</option>
+                        <option>Treinamento</option>
+                        <option>Diciplina Isolada</option>
+                    </select>
                 </div>
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
+                    <label>INSTITUIÇÃO</label>
                     <input class="field" type="text" name="curso" id="curso">
+                </div>
+            </div>
+            <div class="container-linha3">
+                <div class="campo-container">
+                    <label>INÍCIO</label>
+                    <input class="tempo" type="date" name="curso" id="curso">
+                </div>
+                <div class="campo-container">
+                    <label>CONCLUSÃO</label>
+                    <input class="tempo" type="date" name="curso" id="curso">
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
-                </div>
-                <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
+                    <label>ANEXO</label>
+                <fieldset class="anexo">
+                <input type="file" name="arquivo" class="anexocampo">
+                </fieldset>
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
+                    <label>SETOR</label>
+                    <select class="setor">
+                        <option selected="" disabled="" value="">Selecione</option>
+                        <option>Gerência Financeira</option>
+                        <option>Secretária de Contratos</option>
+                        <option>Presidência</option>
+                        <option>Gerência de Administração Pessoal</option>
+                        <option>Gerência de Desenvolvimento de Pessoas</option>
+                        <option>Controladoria</option>
+                        <option>Assessoria de Comunicação</option>
+                        <option>Contabilidade</option>
+                        <option>Gerência de Obras</option>
+                        <option>Gerência de Logística</option>
+                        <option>Gerência de Relações Trabalhistas</option>
+                        <option>Assessoria Jurídica</option>
+                        <option>Gerência de Obras</option>
+                        </select>
                 </div>
             </div>
-            <div class="container-linha">
-                <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
-                </div>
+            <div class="botao">
+                <button class="botaotexto" type="submit">CONFIRMAR</button>
             </div>
         </form>
     </div>
@@ -59,82 +92,3 @@
 
 </html>
 
-<!-- <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://%20//fonts.googleapis.com/css2?%20family=%20Poppins:wght@500%20&%20display=swap" rel="stylesheet">
-    <title>Meus Registros</title>
-</head>
-<body>
-    <div id="cabecalho" class="header">
-        <ul id="menu">
-            <li><a href="#">REGISTROS</a></li>
-            <li><a href="#">SOBRE</a></li>
-            <li><a href="#">PÁGINA</a></li>
-        </ul>  
-    </div>
-    <form class="form" >
-            <div class="campo">
-                <label class="tabela">NOME DO CURSO</label>
-                <input type="text" name="curso" id="curso"> 
-            </div>
-            <div class="campo">
-                <label >TIPO</label>
-                <select id="tipo">
-                    <option selected="" disabled="" value="">Selecione</option>
-                    <option>Curso de Curta Duração</option>
-                    <option>Workshop</option>
-                    <option>Vídeo Aula</option>
-                    <option>Treinamento</option>
-                    <option>Diciplina Isolada</option>
-                </select>
-            </div>
-                
-            <div class="campo">
-                <label class="tabela">INÍCIO</label>
-                <input type="date" name="inicio" id="inicio"> 
-            </div>
-            <div class="campo">
-                <label class="tabela">CONCLUSÃO</label>
-                <input type="date" name="conclusão" id="conclusao"> 
-            </div>
-            <div>
-                <label class="tabela">SETOR</label>
-                <select id="setor">
-                    <option selected="" disabled="" value="">Selecione</option>
-                    <option>Gerência Financeira</option>
-                    <option>Secretária de Contratos</option>
-                    <option>Presidência</option>
-                    <option>Gerência de Administração Pessoal</option>
-                    <option>Gerência de Desenvolvimento de Pessoas</option>
-                    <option>Controladoria</option>
-                    <option>Assessoria de Comunicação</option>
-                    <option>Contabilidade</option>
-                    <option>Gerência de Obras</option>
-                    <option>Gerência de Logística</option>
-                    <option>Gerência de Relações Trabalhistas</option>
-                    <option>Assessoria Jurídica</option>
-                    <option>Gerência de Obras</option>
-                    </select>
-            </div>
-            <div>
-                <label class="tabela">ANEXO</label>
-                <br>
-                <fieldset class="anexolimite">
-                <input type="file" name="arquivo" id="arquivo">
-                <br>
-            </fieldset>
-            </div>
-            <div class="campo">
-                <label class="tabela">CARGA HORÁRIA</label>
-                <input type="number" name="horario" id="horario"> 
-            </div>
-            <div class="campo"> 
-                <label class="tabela">INSTITUIÇÃO</label>
-                <input type="text" name="tipo" id="instituicao"> 
-            </div>
-            <button class="botao" type="submit">CONFIRMAR</button>
-    </form>
-</body>
-</html> -->
