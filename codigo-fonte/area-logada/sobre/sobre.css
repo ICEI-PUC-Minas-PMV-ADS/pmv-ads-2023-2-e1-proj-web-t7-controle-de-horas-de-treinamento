@@ -1,0 +1,127 @@
+/* Estilos gerais */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFFFF;
+}
+
+/* Estilos do cabeçalho */
+.header {
+    background-color: #4D4C4C;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.menu-icon {
+    cursor: pointer;
+}
+
+.bar {
+    width: 25px;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin: 4px 0;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    margin-top: 19px;
+}
+
+.search-icon {
+    width: 20px;
+    height: 20px;
+    background-image: url('imagem/search-icon.png'); /* Substitua 'search-icon.png' pela imagem da lupa */
+    background-size: cover;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.search input {
+    background-color: #EFEFEF;
+    border: none;
+    padding: 8px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    width: 239px; /* Ajuste o tamanho conforme necessário */
+    margin-right: 95px;
+}
+
+.user-icon {
+    width: 30px;
+    height: 30px;
+    background-image: url('imagem/user.png'); /* Substitua 'user-icon.png' com o ícone do boneco */
+    background-size: cover;
+    margin-left: 10px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    margin: 0;
+    margin-right: 10px;
+}
+
+.menu li {
+    margin-right: 18px;
+    color: #4D4C4C;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+
+.menu li:hover {
+    color: #DFC13F; /* Altera a cor do texto ao passar o mouse */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombreamento ao passar o mouse */
+}
+
+/* Estilos do conteúdo */
+.content {
+    display: flex;
+    align-items: center;
+    position: relative; /* Crie um contexto de posicionamento */
+}
+
+.yellow-box {
+    background-color: #DFC13F;
+    width: 500px;
+    height: 540px;
+    padding: 5px;
+    padding-right: 150px;
+    margin-left: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.text-container {
+    text-align: justify; /* Alinhar o texto à esquerda */
+    font-weight: bold;
+}
+
+.image-container {
+    position: relative; /* Crie um contexto de posicionamento para a imagem */
+}
+
+.image {
+    position: absolute; /* Posicione a imagem de forma absoluta */
+    top: -200px;
+    right: -450px; /* Ajuste conforme necessário para controlar a sobreposição */
+    width: 588px;
+    height: 480px;
+}
+
+.image img {
+    width: 600px;
+    height: 450px;
+}
