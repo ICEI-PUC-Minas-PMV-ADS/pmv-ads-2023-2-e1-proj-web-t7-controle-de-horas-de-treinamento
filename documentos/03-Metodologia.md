@@ -77,14 +77,12 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
   *Planejamento*: foram desenvolvidas a primeira parte da solução, onde foi criado o template da aplicação, determinando o layout padrão da solução em HTML e CSS. Em reunião de equipe, definimos que seguiriamos com o desenvolvimento de tela da trilha do usuário, no caso, do funcionário que irá informar as suas horas cumpridas em cursos e treinamentos.
 
-  *Execução*: como a participação da equipe não foi satisfatória nas etapas anteriores, resolvemos adotar uma outra estratégia para envolver todos os membros. Foi realizado no dia 16/10/2023 às 20h, via Microsoft Teams, uma reunião de alinhamento e definição de tarefas individuais e também as datas dos nossos próximos encontros para alinhamento. Uma das definição foi a decisão de que cada membro ficaria com a elaboração dos códigos de cada tela que foi apresentada na etapa anterior como interface. Foi disponibilizado para todos os membros da equipe o link de acesso ao modelo de interface criado no Canva, para que todos tivessem acesso às fontes, tamanhos e cores utilizadas.
+  *Execução*: como a participação da equipe não foi satisfatória nas etapas anteriores, resolvemos adotar uma outra estratégia para envolver todos os membros. Foi realizado no dia 16/10/2023 às 20h, via Microsoft Teams, uma reunião de alinhamento e definição de tarefas individuais e também a definição das datas dos nossos próximos encontros para alinhamento. Uma das definição foi a decisão de que cada membro ficaria com a elaboração dos códigos de uma tela que foi apresentada na etapa anterior como interface. Foi disponibilizado para todos os membros da equipe o link de acesso ao modelo de interface criado no Canva, para que todos tivessem acesso às fontes, tamanhos e cores utilizadas. A participação dos membros da equipe foram mais satisfatórias nesta etapa, encontramos algumas dificuldades e fomos nos ajudando no decorrer dos encontros agendados. Somente uma das páginas, que envolvia gráficos, que não foi desenvolvida neste momento e ficará como ponto de melhoria para as próximas etapas.
 
   *Evidência*:
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/7be4d3d2-c051-4ad8-91af-1bb0515a7d29)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/f4fb9377-5ba5-4199-9b41-7cd2d2232bbf)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/d1cebcae-6f91-4afa-ac10-b7ebbb171256)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/1e9b4e1e-2cff-4d29-afcc-e9b7f1c01323)
 
 
 - Sprint 4:
@@ -125,8 +123,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | User Flow                           | Miro                               | [Miro](https://miro.com/app/board/uXjVMlvEzXo=/?share_link_id=749936622402) |
 |Reunião de planejamento da Sprint    | Microsoft Teams                    | [Reunião Sprint](https://www.microsoft.com/pt-br/microsoft-teams/log-in) |
 | Projeto de Interface                | Canva                              | [Canva](https://www.canva.com/)  |
-| Gerenciamento do Projeto            | GitHub Projects                    | [GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Gerenciamento do Projeto            | GitHub Projects                    | [GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                     |
+| Construção dos códigos              | Virtual Studio Code                | [Virtual Studio Code](https://code.visualstudio.com/)  |
 
 
 ## Estratégia de Organização de Codificação 
