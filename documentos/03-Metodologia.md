@@ -134,26 +134,20 @@ Todos os artefatos relacionados a implementação e visualização dos conteúdo
 
 ### Instruções de utilização
 
-- Pasta src (root do projeto): index.html, index.css, index.js
+Todas as pastas possuem a estrutura definiada a seguir: src (root do projeto): index.html, index.css, index.js.
+
+Dessa forma segue abaixo a divisão adotada para armnazenamento dos códigos.
 
 - Pasta src\components - Diretório responsável por elementos da página que vão ser comuns em todas as visualizações do sistema, como menus laterais, menus superiores e rodapés.
 
-- Pasta src\area-nao-logada\insira-seu-codigo: insira-seu-codigo.html, insira-seu-codigo.css, insira-seu-codigo.js
-
-- Pasta src\area-nao-logada\cadastro: cadastro.html, cadastro.css, cadastro.js
-
 - Pasta src\area-nao-logada\login: login.html, login.css, login.js
-
-- Pasta src\area-nao-logada\esqueci-minha-senha: esqueci-minha-senha.html, esqueci-minha-senha.css, esqueci-minha-senha.js
+- Pasta src\area-nao-logada\cadastro: cadastro.html, cadastro.css, cadastro.js
+- Pasta src\area-nao-logada\mudar-senha: mudar-senha-senha.html, mudar-senha-senha.css, mudar-senha-senha.js
 
 - Pasta src\area-logada\home-gestor: home-gestor.html, home-gestor.css, home-gestor.js
-
 - Pasta src\area-logada\home-colaborador: home-colaborador.html, home-colaborador.css, home-colaborador.js
-
 - Pasta src\area-logada\sobre: sobre.html, sobre.css, sobre.js
-
 - Pasta src\area-logada\adicionar-registro: adicionar-registro.html, adicionar-registro.css, adicionar-registro.js
-
 - Pasta src\area-logada\meus-registros: meus-registros.html, meus-registros.css, meus-registros.js
 
 ### Instalação do Site
@@ -162,7 +156,7 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 ### Histórico de versões
 
-[0.1.0] - DD/MM/AAAA
-Adicionado/Atualizado/Removido
+[0.1.0] - 29/10/2023
+Adicionado
 
-- Relação de artefatos ...
+- Relação de artefatos: foram adicionados as páginas de *login*, *página inicial* (home colaborador), *sobre* e *adicionar registros*; as páginas *cadastro* e de *meus registros* serão incluidas nas próximas atualizações
