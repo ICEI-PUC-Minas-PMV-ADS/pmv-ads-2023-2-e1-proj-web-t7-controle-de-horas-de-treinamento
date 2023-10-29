@@ -159,4 +159,4 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 [0.1.0] - 29/10/2023
 Adicionado
 
-- Relação de artefatos: foram adicionados as páginas de *login*, *página inicial* (home colaborador), *sobre* e *adicionar registros*; as páginas *cadastro* e de *meus registros* serão incluidas nas próximas atualizações
+- Relação de artefatos: foram adicionados as páginas de *login*, *página inicial* (home colaborador), *sobre* e *adicionar registros*; as páginas *cadastro*, *mudar senha* e de *meus registros* serão incluidas nas próximas atualizações
