@@ -9,12 +9,8 @@
 </head>
 
 <body>
-    <div class="header">
-        <ul id="menu">
-            <li><a href="#">REGISTROS</a></li>
-            <li><a href="#">SOBRE</a></li>
-            <li><a href="#">PÁGINA INICIAL</a></li>
-        </ul>  
+    <div id="menu-container"></div>
+    <script src="../../componentes/top-menu.js"></script>
     <div class="container-pagina">
         <form>
             <div class="container-linha">
@@ -57,9 +53,9 @@
             <div class="container-linha">
                 <div class="campo-container">
                     <label>ANEXO</label>
-                <fieldset class="anexo">
-                <input type="file" name="arquivo" class="anexocampo">
-                </fieldset>
+                    <fieldset class="anexo">
+                        <input type="file" name="arquivo" class="anexocampo">
+                    </fieldset>
                 </div>
             </div>
             <div class="container-linha">
@@ -80,15 +76,13 @@
                         <option>Gerência de Relações Trabalhistas</option>
                         <option>Assessoria Jurídica</option>
                         <option>Gerência de Obras</option>
-                        </select>
+                    </select>
                 </div>
             </div>
             <div class="botao">
                 <button class="botaotexto" type="submit">CONFIRMAR</button>
             </div>
         </form>
-    </div>
 </body>
 
 </html>
-

@@ -1,99 +1,108 @@
 body {
-    margin: 0;
-    background-color: #FFFFFF;
-    font-family: 'Poppins', sans-serif;
-  }
-  
-  .container-pagina {
-    font-family: 'Poppins', sans-serif;
-    padding: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    width: 100%;
-  }
-  
-  .container-linha {
-    display: flex;
-    align-items: end;
-    flex-direction: row;
-    gap: 460px;
-    margin: 20px;
-  }
-  
-  .campo-container {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .field{
-    background-color: #CECECE;
-    border-radius: 50px;
-    padding: 30px;
-    width: 250%
-  }
-
-  .anexo{
-    background-color: #CECECE;
-    border-radius: 50px;
-    padding: 30px;
-    width: 160%
-  }
-
-  .setor{
-    background-color: #CECECE;
-    border-radius: 50px;
-    padding: 30px;
-    width: 185%
-  }
-  .container-linha3{
-    display: flex;
-    align-items: end;
-    flex-direction: row;
-    gap: 515px;
-    margin: 20px;
-  }
-
-  .tempo{
-    background-color: #CECECE;
-    border-radius: 50px;
-    padding: 30px;
-    width: 320%
-  }
-
-  .tipo{
-    background-color: #CECECE;
-    border-radius: 50px;
-    padding: 30px;
-    width: 275%
-  }
-
-  #menu li{
-    display: flex;
-    float: right;
+  margin: 0;
+  background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
 }
 
-  #menu li a{
-    color: black;
-    text-decoration: none;
-    padding: 20px;
-}
-  
-  #menu li a:hover{
-  color: #DFC13F;
-  }
-
-  .botao{
-    display: flex;
-    align-items: end;
-    flex-direction: column;
-    margin-right: -35%;
-  }
-
-  button{
-    background-color: #4D464C;
-    color: #FFFFFF;
-    width: 15%;
-    padding: 15px;
+.container-pagina {
+  font-family: "Poppins", sans-serif;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 100%;
 }
 
+.container-linha {
+  display: flex;
+  align-items: end;
+  flex-direction: row;
+  gap: 460px;
+  margin: 20px;
+}
+
+.campo-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  background-color: #cecece;
+  border-radius: 50px;
+  padding: 30px;
+  width: 250%;
+}
+
+.anexo {
+  background-color: #cecece;
+  border-radius: 50px;
+  padding: 30px;
+  width: 160%;
+}
+
+.setor {
+  background-color: #cecece;
+  border-radius: 50px;
+  padding: 30px;
+  width: 185%;
+}
+.container-linha3 {
+  display: flex;
+  align-items: end;
+  flex-direction: row;
+  gap: 515px;
+  margin: 20px;
+}
+
+.tempo {
+  background-color: #cecece;
+  border-radius: 50px;
+  padding: 30px;
+  width: 320%;
+}
+
+.tipo {
+  background-color: #cecece;
+  border-radius: 50px;
+  padding: 30px;
+  width: 275%;
+}
+
+.botao {
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  margin-right: -35%;
+}
+
+button {
+  background-color: #4d464c;
+  color: #ffffff;
+  width: 15%;
+  padding: 15px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px;
+  margin: 0;
+  margin-right: 10px;
+}
+
+.menu li {
+  margin-right: 18px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+.menu li:hover {
+  color: #dfc13f; /* Altera a cor do texto ao passar o mouse */
+}
+
+li {
+  font-weight: 400 !important;
+}
