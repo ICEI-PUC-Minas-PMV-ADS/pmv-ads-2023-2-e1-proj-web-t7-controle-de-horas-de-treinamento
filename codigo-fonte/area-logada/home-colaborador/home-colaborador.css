@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.menu {
+    width: 100%;
+    text-align: right;
+}
+
+.container {
+    padding: 28px 30px 30px 18px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.bg-image {
+    height: 100vh;
+    background: url("../../imagens/universidade.jpg") no-repeat fixed center;
+}
+
+.menu a {
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+
+}
+
+section.sobre {
+    height: calc(100% - 200px);
+    position: relative;
+
+}
+
+.extras {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
