@@ -18,17 +18,30 @@
     flex-direction: row;
 }
 
-.bg-image {
-    height: 100vh;
-    background: url("../../imagens/universidade.jpg") no-repeat fixed center;
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px;
+    margin: 0;
+    margin-right: 10px;
 }
 
-.menu a {
-    color: gray;
-    text-decoration: none;
+.menu li {
+    margin-right: 18px;
+    cursor: pointer;
     font-weight: bold;
-    margin-right: 15px;
+    margin-top: 10px;
+    transition: color 0.3s, text-shadow 0.3s;
+}
 
+.menu li:hover {
+    color: #dfc13f;
+    /* Altera a cor do texto ao passar o mouse */
+}
+
+li {
+    font-weight: 400 !important;
 }
 
 section.sobre {
@@ -44,4 +57,9 @@ section.sobre {
     width: 200px;
     height: 200px;
     background-color: yellow;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
