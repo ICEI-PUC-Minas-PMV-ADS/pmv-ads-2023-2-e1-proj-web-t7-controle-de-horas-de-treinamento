@@ -26,24 +26,17 @@ RF-01: Permitir a inserção de dados sobre os treinamentos e cursos realizados.
 
 #### Estrutura de Dados
 
-*[adicionar-egistro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/codigo-fonte/area-logada/adicionar-registro/adicionar-registro.html)
+*[adicionar-registro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/codigo-fonte/area-logada/adicionar-registro/adicionar-registro.html)
 
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+
+Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Matheus Vinicio Santos Costa
 
