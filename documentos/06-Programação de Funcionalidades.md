@@ -2,12 +2,13 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+### Adicionar Registro
 
-### Título da funcionalidade
+Responsável: Matheus Vinicio Santos Costa
 
-[Adicione imagem da funcionalidade/tela]
+O acesso a tela de Adicionar Novo Registro poderá ser feito através do butão superior esquerdo localizado na Tela,"Registros". As estruturas de dados foram baseadas em HTML, CSS e JS.
 
+![Tela adicionar registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/Tela%20adicionar%20registro.png)
 
 #### Requisito atendido
 
