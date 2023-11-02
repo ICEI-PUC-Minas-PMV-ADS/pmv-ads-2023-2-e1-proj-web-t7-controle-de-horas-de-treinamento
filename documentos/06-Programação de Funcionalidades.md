@@ -31,9 +31,9 @@ RF-01: Permitir a inserção de dados sobre os treinamentos e cursos realizados.
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-logada/home-colaborador/home-colaborador.html
 
-Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
+Ao clicar em “Novo Registro” no canto superior esquerdo da tela, terá acesso a página.
 
 
 #### Responsável
