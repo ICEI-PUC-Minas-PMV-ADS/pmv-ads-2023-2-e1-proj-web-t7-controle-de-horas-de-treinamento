@@ -19,14 +19,14 @@ RF-01: Permitir a inserção de dados sobre os treinamentos e cursos realizados.
 
 #### Artefatos da funcionalidade
 
-*adicionar-registro.css
-*adicionar-registro.html
-*adicionar-registro.js
+* adicionar-registro.css
+* adicionar-registro.html
+* adicionar-registro.js
 
 
 #### Estrutura de Dados
 
-*[adicionar-registro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/codigo-fonte/area-logada/adicionar-registro/adicionar-registro.html)
+* [adicionar-registro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/codigo-fonte/area-logada/adicionar-registro/adicionar-registro.html)
 
 
 #### Instruções de acesso
