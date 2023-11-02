@@ -2,7 +2,8 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-### Adicionar Registro
+
+### Adicionar Registro (RF-01)
 
 Responsável: Matheus Vinicio Santos Costa
 
@@ -10,9 +11,10 @@ O acesso a tela de Adicionar Novo Registro poderá ser feito através do butão 
 
 ![Tela adicionar registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/Tela%20adicionar%20registro.png)
 
+
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-01: Permitir a inserção de dados sobre os treinamentos e cursos realizados.
 
 
 #### Artefatos da funcionalidade
