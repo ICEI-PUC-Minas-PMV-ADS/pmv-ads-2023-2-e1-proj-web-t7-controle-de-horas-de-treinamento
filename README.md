@@ -38,7 +38,7 @@ Criar uma aplicação web que possibilite registrar e controlar as horas de trei
 
 # Hospedagem
 
-* [Site]([https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/index.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html)). 
+* [Site](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html) 
 
 # Código-Fonte
 
