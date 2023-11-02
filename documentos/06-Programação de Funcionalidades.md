@@ -19,7 +19,9 @@ RF-01: Permitir a inserção de dados sobre os treinamentos e cursos realizados.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+.adicionar-registro.css
+.adicionar-registro.html
+.adicionar-registro.js
 
 
 #### Estrutura de Dados
