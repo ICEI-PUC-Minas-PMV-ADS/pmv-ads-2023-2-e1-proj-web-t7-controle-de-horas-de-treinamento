@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300&family=Poppins:wght@500&display=swap');
+
+
+/*CORPO*/
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     background-color: #ffffff;
     margin: 0;
     display: flex;
@@ -14,34 +17,100 @@ body {
     text-align: center;
 }
 
-.login-container h2 {
-    font-family: 'Poppins';
+.login-container h1 {
+    font-family: 'Poppins', sans-serif;
     font-size: 40px;
     margin: 0px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     width: 280px;
-    height: 51px;
+    height: 70px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    top: -40px;
+    top: 0px;
 }
 
 .login-container input {
-    font-family: 'DM Sans';
+    font-family: 'Poppins', sans-serif;
     width: 519px;
     height: 50px;
-    padding: 15px;
+    padding: 1px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
     border-radius: 50px;
     background-color: #d6d6d6;
-    font-size: 24px;
+    font-size: 15px;
     padding-left: 70px;
     margin-left: auto;
     margin-right: auto;
 }
 
+
+/*CRIAR NOVA CONTA*/
+.create-account-button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-top: 1px;
+    margin: 30px;
+    width: 300px;
+    height: 51px;
+    position: relative;
+    top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: #000;
+}
+
+.create-account-button a:link {
+    text-decoration: none;
+    color:#000;
+}
+
+.create-account-button a:visited {
+    color:#000;
+}
+
+/*TÍTULO E CAMPOS DE PREENCHIMENTO*/
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-bottom: 5px;
+    position: relative;
+    right: 230px;
+}
+
+.form-group input {
+    width: 500px;
+}
+
+/*ESQUECI A SENHA*/
+.forgot-password {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+    position: relative;
+    left: 165px;
+    top: -10px;
+    text-decoration: none;
+}
+
+.forgot-password a:link {
+    text-decoration: none;
+    color:#000;
+}
+
+.forgot-password a:visited {
+    color:#000;
+}
+
+/*BOTÃO ENTRAR*/
 .login-container button {
     width: 40%;
     padding: 20px;
@@ -57,133 +126,11 @@ body {
     margin-right: auto;
 }
 
-.forgot-password {
-    font-family: 'DM Sans';
-    font-size: 16px;
-    margin-top: 10px;
-    position: relative;
-    left: 165px;
-    top: -10px;
+.login-container button a:link {
     text-decoration: none;
+    color: #ffffff;
 }
 
-.create-account-button {
-    font-family: 'DM Sans';
-    font-size: 18px;
-    margin-top: 1px;
-    margin: 30px;
-    width: 300px;
-    height: 51px;
-    position: relative;
-    top: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    text-decoration: none;
-    color: #000;
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.form-group label {
-    font-family: 'DM Sans';
-    font-size: 16px;
-    margin-bottom: 5px;
-    position: relative;
-    right: 230px;
-}
-
-.form-group input {
-    width: 519px;
-}
-
-header {
-    background-color: #4D4C4C;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    display: flex;
-    justify-content: space-between;
-    position: absolute;
-    top: 0px;
-    width: 100%;
-}
-
-.navigation {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.navigation-buttons {
-    display: flex;
-}
-
-.navigation-buttons button {
-    background: none;
-    border: none;
-    font-size: 30px;
-    color: #fff;
-    margin-right: 10px;
-    cursor: pointer;
-}
-
-.search-bar-container {
-    flex-grow: 1;
-    display: flex;
-    align-items: center;
-    background-color: #EFEFEF;
-    border-radius: 40px;
-    padding: 5px;
-    position: center;
-    right: auto;
-    left: auto;
-}
-
-.search-bar input {
-    border: none;
-    outline: none;
-    flex-grow: 1;
-    padding: 5px;
-    width: 920px;
-    background-color: #EFEFEF;
-}
-
-.search-bar button {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    padding: 5px 10px;
-    cursor: pointer;
-}
-.notification-button {
-            width: 20px;
-            height: 20px;
-            padding-left: 10px;
-            cursor: pointer;
-        
-        }
-         
-.share-button {
- width: 20px; 
- height: 20px;
-padding-left: 10px;
- cursor: pointer;}
-
- .lupa-icon {
- background: none;
- border: none;
- height: 20px;
- width: 20px;
- color: #000000;
- cursor: pointer;
- position: relative;
- left: 962px;
- top: -3px;
+.login-container button a:visited {
+    color: #ffffff;
 }
