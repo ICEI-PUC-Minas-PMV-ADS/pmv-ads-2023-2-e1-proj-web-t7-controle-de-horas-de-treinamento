@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300&family=Poppins:wght@500&display=swap');
+
+
+/*CORPO*/
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+ 
+.login-container {
+    text-align: center;
+}
+
+.login-container h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 70px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0px;
+}
+
+.login-container input {
+    font-family: 'Poppins', sans-serif;
+    width: 519px;
+    height: 50px;
+    padding: 1px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    background-color: #d6d6d6;
+    font-size: 15px;
+    padding-left: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*TÍTULO E CAMPOS DE PREENCHIMENTO*/
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-bottom: 5px;
+    position: relative;
+    right: 230px;
+}
+
+.form-group input {
+    width: 500px;
+}
+
+/*CAIXA DE SELEÇÃO DE ACORDO COM OS TERMOS*/
+.checkbox {
+    position: relative;
+    user-select:none;
+}
+.checkbox input {
+    position: absolute;
+    left: 5px;
+    border: 2px solid #000000;
+    content: "";
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    transition: all .2s ease-in-out;
+}
+.checkbox label {
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding-left: 150px;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+/*BOTÃO PARA CONCLUIR CADASTRO*/
+.login-container button {
+    width: 40%;
+    padding: 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 15px;
+    position: relative;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-container button a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.login-container button a:visited {
+    color: #ffffff;
+}
