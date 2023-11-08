@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-        
 }
 
 .menu {
@@ -61,7 +60,6 @@ a:hover {
     border-radius: 0px;
     cursor: pointer;
     font-size: 15px;
-    
 }
 
 .button a:link {
