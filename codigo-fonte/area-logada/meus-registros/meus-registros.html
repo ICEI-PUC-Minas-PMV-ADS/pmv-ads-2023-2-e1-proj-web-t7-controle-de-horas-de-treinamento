@@ -1,22 +1,95 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="./meus-registros.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
-        <script src="meus-registros.js" defer></script>
-        <title>MEUS REGISTROS</title>
-    </head>
-    <body>
-        <ul class="menu">
-            <li> <a href="../home-colaborador/home-colaborador.html">PÁGINA INICIAL</a></li>
-            <li><a href="../sobre/sobre.html">SOBRE</a></li>
-            <li><a href="../meus-registros/meus-registros.html">REGISTROS</a></li>
-        </ul>
-        <button class="button"> <a href="../adicionar-registro/adicionar-registro.html"><b>NOVO REGISTRO</b></a></button>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./meus-registros.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+    <script src="meus-registros.js" defer></script>
+    <title>MEUS REGISTROS</title>
+</head>
+
+<body>
+    <ul class="menu">
+        <li> <a href="../home-colaborador/home-colaborador.html">PÁGINA INICIAL</a></li>
+        <li><a href="../sobre/sobre.html">SOBRE</a></li>
+        <li><a href="../meus-registros/meus-registros.html">REGISTROS</a></li>
+    </ul>
+    <div class="global-container">
+        <div class="user-pic-container">
+            <div class="avatar-msg-container">
+                <img class="avatar-size" src="../../imagens/leonardo.png">
+                <span class="default-text">Olá, Leonardo</span>
+            </div>
+            <img class="icon" src="../../imagens/printer.svg">
+        </div>
+        <div class="new-register-container">
+            <div class="yellow-circle plus-sign">+</div>
+            <span class="default-text"> NOVO REGISTRO</span>
+        </div>
+        <div class="chart-row-container">
+            <div class="grey-wrapper" style="width: 70%">
+                <canvas id="myChart"></canvas>
+            </div>
+            <div class="training-column-container">
+                <div>
+                    <div class="lighter-rectangle rectangle-text ">TOTAL DE REGISTROS</div>
+                    <div class="rectangle rectangle-text ">31</div>
+                </div>
+
+                <h2>POR ANO</h2>
+
+                <div class="training-rectangle-container">
+                    <div class="ligther-rectangle-row rectangle-text ">2021</div>
+                    <div class="rectangle-row rectangle-text ">8</div>
+                </div>
+
+                <div class="training-rectangle-container">
+                    <div class="ligther-rectangle-row rectangle-text ">2021</div>
+                    <div class="rectangle-row rectangle-text ">12</div>
+                </div>
+
+                <div class="training-rectangle-container">
+                    <div class="ligther-rectangle-row rectangle-text ">2021</div>
+                    <div class="rectangle-row rectangle-text ">11</div>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+        <script>
+            const ctx = document.getElementById('myChart');
+
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio'],
+                    datasets: [{
+                        label: '2021',
+                        data: [12, 19, 3, 5, 2, 3],
+                        borderWidth: 5
+                    },
+                    {
+                        label: '2022',
+                        data: [17, 193, 2, 2, 7, 34],
+                        borderWidth: 5
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        </script>
+    </div>
+</body>
+
+
 </html>
