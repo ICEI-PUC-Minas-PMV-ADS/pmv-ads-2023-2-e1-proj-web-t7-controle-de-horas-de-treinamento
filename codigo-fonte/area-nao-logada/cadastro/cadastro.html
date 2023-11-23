@@ -1,47 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./cadastro.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./cadastro.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap"
+      rel="stylesheet"
+    />
     <title>TELA DE LOGIN</title>
-       
-</head>
 
-<body>
+    <script src="./cadastro.js"></script>
+  </head>
+
+  <body>
     <div class="login-container">
-        <h1>Criar novo cadastro</h1>
+      <h1>Criar novo cadastro</h1>
+      <div class="stripe bottom"></div>
+      <div class="login-form">
+        <form id="formulario">
+          <div class="form-group">
+            <label id="labelName" for="username">N O M E</label>
+            <input type="text" id="nome" for="nome" riquered />
+          </div>
+          <div class="form-group">
+            <label id="labelEmail" for="email">E M A I L</label>
+            <input type="text" id="email" for="email" riquered />
+          </div>
+          <div class="form-group">
+            <label id="labelSenha" for="password">S E N H A</label>
+            <input type="password" id="password" for="password" riquered />
+          </div>
 
-        <div class="stripe bottom"></div>
-        <div class="login-form">
-            <form>
-                <div class="form-group">
-                    <label for="username">N O M E</label>
-                    <input type="text" id="name" name="name" placeholder="">
-                </div>
-                <div class="form-group">
-                    <label for="username">E M A I L</label>
-                    <input type="text" id="username" name="username" placeholder="">
-                </div>
-                <div class="form-group">
-                    <label for="password">S E N H A</label>
-                    <input type="password" id="password" name="password" placeholder="">
-                </div>
-            </form>
-        
-            <div class="checkbox">
-                <input type="checkbox" id="subscribe" required>
-                <label for="subscribe">Ao se registrar, você concorda com os Termos,<br><br>Condições e Políticas de Privacidade</label>
-            </div>
-                        
-               
-            <button class="login-button"> <a href="../login/login.html">FINALIZAR CADASTRO</a></button>
-    
+          <div class="checkbox">
+            <input type="checkbox" id="subscribe" required />
+            <label for="subscribe"
+              >Ao se registrar, você concorda com os Termos,<br /><br />Condições
+              e Políticas de Privacidade</label
+            >
+          </div>
+          <button class="login-button" type="submit">FINALIZAR CADASTRO</button>
+        </form>
+        <!--<a href="../login/login.html">FINALIZAR CADASTRO</a>-->
+      </div>
     </div>
-</body>
-
+  </body>
 </html>
