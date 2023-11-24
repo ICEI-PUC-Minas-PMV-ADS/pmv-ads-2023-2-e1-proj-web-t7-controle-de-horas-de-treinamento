@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300&family=Poppins:wght@500&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300&family=Poppins:wght@500&display=swap');
+ 
 /*CORPO*/
 body {
     font-family: 'Poppins', sans-serif;
@@ -133,3 +133,41 @@ body {
 .login-container button a:visited {
     color: #ffffff;
 }
+@media screen and (max-width: 760px) {
+        body {
+            height: auto;
+            width: auto;
+        }
+
+        .login-container h1 {
+            font-size: 30px;
+            width: 100%;
+            margin-bottom: 25px;
+            position: relative;
+            top: 30px
+        }
+
+        .login-container input {
+            width: 80%;
+        }
+
+        .create-account-button {
+            width: 80%;
+            margin: 15px auto;
+        }
+
+        .form-group label {
+            right: 0;
+        }
+
+        .forgot-password {
+            left: 0;
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .login-container button {
+            width: 80%;
+            top: 15px;
+        }
+    }
