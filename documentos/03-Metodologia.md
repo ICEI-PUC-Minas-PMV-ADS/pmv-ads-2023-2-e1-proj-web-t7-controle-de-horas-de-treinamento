@@ -87,11 +87,14 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
 
 - Sprint 4:
 
-  *Planejamento*: 
+  *Planejamento*: foram desenvolvidas a segunda parte da solução, onde foi criado os armazenamentos de dados e telas de acompanhamento dos treinamentos cadastrados por parte dos colaboradores e também a visualização do setor de treinamentos. Em reunião de equipe, definimos que cada membro ficarai responsável por tornar suas páginas responsivas e realizar os testes.
 
-  *Execução*: 
+  *Execução*: a participação da equipe nesta etapa foi muito aquém do esperado. Não houve o engajamento necessário para desenvolver o formato de armazenamento, ficando somente para um dos membros do grupo a proatividade de buscar conhecimento para conseguir implantar. Após algumas dificuldades de comunicação com o grupo, foi preciso realizar uma reunião com o objetivo de envolver os demais membros da equipe e alertar do prazo de entrega, frizando a necessidade de comprometimento de todos. Porém, na data marcada para a reunião somente dois membros estavam presentes e os demais só justificaram ausência tempos depois. Com isso, foi necessário remarcar a reunião onde cada membro da equipe foi responsabilizada por adequar as páginas que haviam feito para que ficassem em um formato responsivo, enquanto dois dos integrantes do grupo ficariam responsáveis um por terminar de criar a base de armazenamento envolvendo todas as páginas necessárias e o outro ficaria responsável por criar a tela de acompanhamento, gráficos e relatórios. Mais uma vez um dos integrantes não participou em nenhuma etapa do processo e nem entregou a responsividade da tela no qual ficou incumbido de fazer, nesse caso foi necessário realocação da tarefa para outro integrante. Foi realizado também, por um dos integrantes do grupo, a alteração do padrão de cores que inicialmente havia sido acordado entre os membros. Essa alteração foi realizada sem prévio acordo e mostrada ao grupo somente quando tudo estava pronto.
 
   *Evidência*:
+  
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8236758c-6888-4236-ac7c-f440cf42d6d2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6f4eebe0-f8f1-49ec-bf3b-b1491bab0221)
 
 ### Etiquetas
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
@@ -102,13 +105,13 @@ Descrição:
 
 - Fluxo: Indica a necessidade de estruturar desenhar as ações da aplicação 
 
-- Interface: Indica a necessidade de desenhar protótipo das página a serem utilizadas pelos usuários
+- Interface: Indica a necessidade de desenhar protótipo e codificação das página a serem utilizadas pelos usuários
  
 - Revisar: Indica um ponto de atenção para que todos revisem o que está sendo executado
 
 - Reunião: Indica a necessidade de alinhamento entre os membros da equipe
 
-As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: etiquetas de tonalidade laranja se referem às codificações e desenho da interface; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela repreenta um alesta de revisão e a etiqueta de cor verde representa as reunião.
+As etiquetas ainda foram classificadas por cores, que as correlacionam por afinidade da seguinte forma: etiquetas de tonalidade laranja se referem às codificações e desenho da interface; as etiquetas na tonalidade azul são referentes aos documentos descritivos do projeto; já a etiqueta de cor amarela repreenta um alerta de revisão e a etiqueta de cor verde representa as reunião.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/c1fb4ab1-c410-48e6-94d8-fbd115b55709)
 
