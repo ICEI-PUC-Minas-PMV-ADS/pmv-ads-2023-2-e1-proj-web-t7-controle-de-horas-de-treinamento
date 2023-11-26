@@ -1,6 +1,6 @@
 function cadastraUsuario(nome, senha, email) {
   // Recupera os usuário cadastrados
-  const arrayUsuarios = JSON.parse(localStorage.getItem("users"));
+  const arrayUsuarios = JSON.parse(localStorage.getItem("users")) || [];
 
   // Cria o objeto para o novo usuário
   const novoUsuarios = {

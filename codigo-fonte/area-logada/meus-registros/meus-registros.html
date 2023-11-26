@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
     <script src="meus-registros.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.5/xlsx.full.min.js"></script>
     <title>MEUS REGISTROS</title>
 </head>
 
@@ -24,12 +25,14 @@
                 <img class="avatar-size" src="../../imagens/leonardo.png">
                 <span class="default-text">Olá, Leonardo</span>
             </div>
-            <img class="icon" src="../../imagens/printer.svg">
+            <img class="icon" id="gerarRelatorio" src="../../imagens/printer.svg">
         </div>
-        <div class="new-register-container">
+        <a href="../../area-logada/adicionar-registro/adicionar-registro.html" class="new-register-container">
             <div class="yellow-circle plus-sign">+</div>
             <span class="default-text"> NOVO REGISTRO</span>
-        </div>
+        </a>
+
+
         <div class="chart-row-container">
             <div class="grey-wrapper" style="width: 70%">
                 <canvas id="myChart"></canvas>
@@ -60,34 +63,6 @@
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-        <script>
-            const ctx = document.getElementById('myChart');
-
-            new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio'],
-                    datasets: [{
-                        label: '2021',
-                        data: [12, 19, 3, 5, 2, 3],
-                        borderWidth: 5
-                    },
-                    {
-                        label: '2022',
-                        data: [17, 193, 2, 2, 7, 34],
-                        borderWidth: 5
-                    }]
-                },
-                options: {
-                    scales: {
-                        y: {
-                            beginAtZero: true
-                        }
-                    }
-                }
-            });
-        </script>
     </div>
 </body>
 

@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
     <title>ADICIONAR REGISTRO</title>
-
+    <script defer src="./adicionar-registro.js"></script>
 </head>
 <header>
     <ul class="menu">
@@ -24,19 +24,19 @@
         <form>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>NOME DO CURSO</label>
-                    <input class="field" type="text" name="curso" id="curso">
+                    <label for="nome-do-curso">NOME DO CURSO</label>
+                    <input class="field" type="text" name="curso" id="nome-do-curso" required>
                 </div>
                 <div class="campo-container">
-                    <label>CARGA HORÁRIA</label>
-                    <input class="field" type="number" name="curso" id="curso">
+                    <label for="carga-horaria">CARGA HORÁRIA</label>
+                    <input class="field" type="number" name="carga-horaria" id="carga-horaria" required>
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>TIPO</label>
-                    <select class="tipo">
-                        <option selected="" disabled="" value="">Selecione</option>
+                    <label for="tipo">TIPO</label>
+                    <select class="tipo" id="tipo" required>
+                        <option disabled value="">Selecione</option>
                         <option>Curso de Curta Duração</option>
                         <option>Workshop</option>
                         <option>Vídeo Aula</option>
@@ -45,33 +45,33 @@
                     </select>
                 </div>
                 <div class="campo-container">
-                    <label>INSTITUIÇÃO</label>
-                    <input class="field" type="text" name="curso" id="curso">
-                </div>
-            </div>
-            <div class="container-linha3">
-                <div class="campo-container">
-                    <label>INÍCIO</label>
-                    <input class="tempo" type="date" name="curso" id="curso">
-                </div>
-                <div class="campo-container">
-                    <label>CONCLUSÃO</label>
-                    <input class="tempo" type="date" name="curso" id="curso">
+                    <label for="instituicao">INSTITUIÇÃO</label>
+                    <input class="field" type="text" name="instituicao" id="instituicao" required>
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>ANEXO</label>
+                    <label for="data-inicio">INÍCIO</label>
+                    <input class="tempo" type="date" name="data-inicio" id="data-inicio" required>
+                </div>
+                <div class="campo-container">
+                    <label for="data-conclusao">CONCLUSÃO</label>
+                    <input class="tempo" type="date" name="data-conclusao" id="data-conclusao" required>
+                </div>
+            </div>
+            <div class="container-linha">
+                <div class="campo-container">
+                    <label for="anexo-campo">ANEXO</label>
                     <fieldset class="anexo">
-                        <input type="file" name="arquivo" class="anexocampo">
+                        <input type="file" name="arquivo" class="anexocampo" id="anexo-campo" required>
                     </fieldset>
                 </div>
             </div>
             <div class="container-linha">
                 <div class="campo-container">
-                    <label>SETOR</label>
-                    <select class="setor">
-                        <option selected="" disabled="" value="">Selecione</option>
+                    <label for="setor">SETOR</label>
+                    <select class="setor" id="setor" required>
+                        <option disabled value="">Selecione</option>
                         <option>Gerência Financeira</option>
                         <option>Secretária de Contratos</option>
                         <option>Presidência</option>
@@ -88,7 +88,8 @@
                     </select>
                 </div>
             </div>
-            <button class="botao"> <a href="../meus-registros/meus-registros.html">CONFIRMAR</a></button>
+            <button class="botao" onclick="salvarRegistro()"><a href="../meus-registros/meus-registros.html">
+                    CONFIRMAR </a></button>
         </form>
     </div>
 </body>
