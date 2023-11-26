@@ -140,7 +140,25 @@
     padding: 24px;
   }
   
-  .rectangle-text {
+  .rectangle-text-2021 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
+  .rectangle-text-2022 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
+  .rectangle-text-2023 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
+  .rectangle-text-total {
     text-align: center;
     font-size: 18px;
     font-weight: bolder;

@@ -23,6 +23,46 @@ document.getElementById("gerarRelatorio").addEventListener("click", () => {
 
 const ctx = document.getElementById("myChart");
 
+function createDynamicHTML(data) {
+  const container = document.getElementById("output-container");
+
+  const totalRecordsDiv = document.createElement("div");
+  totalRecordsDiv.innerHTML = `
+      <div>
+          <div class="lighter-rectangle rectangle-text">TOTAL DE REGISTROS</div>
+          <div class="rectangle rectangle-text">${data.totalRecords}</div>
+      </div>
+  `;
+  container.appendChild(totalRecordsDiv);
+
+  const porAnoHeading = document.createElement("h2");
+  porAnoHeading.textContent = "POR ANO";
+  container.appendChild(porAnoHeading);
+
+  data.yearRecords.forEach((yearRecord) => {
+    const yearContainer = document.createElement("div");
+    yearContainer.classList.add("training-rectangle-container");
+    yearContainer.innerHTML = `
+          <div class="lighter-rectangle-row rectangle-text">${yearRecord.year}</div>
+          <div class="rectangle-row rectangle-text">${yearRecord.records}</div>
+      `;
+    container.appendChild(yearContainer);
+  });
+}
+
+createDynamicHTML(dynamicData);
+
+const dynamicData = {
+  totalRecords: 31,
+  yearRecords: [
+    { year: 2021, records: 8 },
+    { year: 2022, records: 12 },
+    { year: 2023, records: 11 },
+  ],
+};
+
+createDynamicHTML(dynamicData);
+
 function getDatasetObject() {
   const anosComTreino = registros.map((registro) => {
     return registro.dataInicio.substring(0, 4);
@@ -69,8 +109,8 @@ new Chart(ctx, {
   type: "line",
   data: {
     labels: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio"],
-    datasets: getDatasetObject()
-    },
+    datasets: getDatasetObject(),
+  },
   options: {
     scales: {
       y: {
