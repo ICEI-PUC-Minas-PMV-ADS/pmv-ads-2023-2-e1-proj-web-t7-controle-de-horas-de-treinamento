@@ -4,9 +4,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;    
 }
-
+ 
 .menu {
     width: 100%;
     text-align: right;
@@ -48,7 +48,9 @@ a:hover {
 /* CORPO */
 
 body {
-    background-color: #4D4C4C
+    background-color: #4D4C4C;
+    overflow-y: hidden;
+    
 }
 
 .container {
@@ -61,14 +63,15 @@ body {
 
 .container img {
     width: 100%;
-    height: 600px;
+    height: 605px;
     opacity: 50%;
+    
 }
 
 .titulo {
     position: absolute;
     top: 20%;
-    Left: 27%;
+    Left: 41%;
     transition: translate(-50%,-50%);
     text-align: center;
     font-size: 50px;
@@ -77,8 +80,8 @@ body {
 
 .subtitulo {
     position: absolute;
-    top: 35%;
-    Left: 27%;
+    top: 42%;
+    Left: 28%;
     transition: translate(-50%,-50%);
     text-align: center;
     font-size: 20px;
@@ -99,6 +102,7 @@ body {
     border-radius: 0px;
     cursor: pointer;
     font-size: 15px;
+    border-radius: 20px; 
     
 }
 
@@ -109,4 +113,151 @@ body {
 
 .button a:visited {
     color: #000000;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    
+    .container img {
+        height: 100vh;          
+    }
+
+    .titulo {    
+        top: 20%;
+        Left: 37%;
+        font-weight: bold;               
+    }
+    .subtitulo {        
+        Left: 15%;
+        top: 40%;
+        text-align:center;
+        font-size: x-large;
+        padding: 15px; 
+        font-weight: bold;     
+    }
+    .button {
+        
+        top: 65%;
+        left: 42%;
+    }
+   
+    }
+    
+@media screen and (max-width: 820px) {
+ 
+     
+    .container img {
+        height: 100vh;          
+    }
+
+    .titulo {    
+        font: center;
+        position: center;
+        top: 20%;
+        Left: 34%;
+        font-weight: bolder;               
+    }
+    .subtitulo {        
+        Left: 15%;
+        top: 38%;
+        text-align: center;
+        font-size:  large;
+        padding: 15px; 
+        font-weight: normal;      
+       }  
+       .button {
+        
+        top: 60%;
+        left: 42%;
+    
+    }    
+}
+
+    @media screen and (max-width: 768px) {
+ 
+     
+        .container img {
+            height: 100vh;          
+        }
+    
+        .titulo {    
+            font: center;
+            position: center;
+            top: 23%;
+            Left: 33%;
+                           
+        }
+        .subtitulo {        
+            Left: 3%;
+            top: 26%;
+            text-align: center;
+            font-size: medium;
+            padding: 115px; 
+            font-weight: bolder;      
+           }  
+        
+        }      
+
+        @media screen and (max-width: 550px) {
+ 
+     
+            .container img {
+                height: 100vh;          
+            }
+        
+            .titulo {    
+                font: center;
+                position: center;
+                top: 23%;
+                Left: 27%;
+                               
+            }
+            .subtitulo {        
+                Left: 3%;
+                top: 40%;
+                text-align: center;
+                font-size: medium;
+                padding: 18px; 
+                font-weight: bolder;      
+               }  
+               .menu {
+                padding: 16px;
+                margin-right: 2px 5px 5px 2px;
+                padding: 6px ;
+            }
+            
+            }      
+    
+@media screen and (max-width: 425px){
+    
+    .menu {
+        
+        text-align: left;
+        left: 5%;
+        font-size: small;
+        padding: 5px;
+        margin-right: 5px;
+        padding: 2px 1px; 
+    }
+    
+    .container img {
+        height: 100vh;          
+    }
+
+    .titulo {    
+        font: center;
+        position: center;
+        top: 25%;   
+        Left: 20%;
+        font-weight: bold;               
+    }
+    .subtitulo {        
+        Left: 0%;
+        top: 41%;
+        text-align:center;
+        font-size: normal;
+        padding: 15px; 
+        font-weight: normal;     
+    }
 }
