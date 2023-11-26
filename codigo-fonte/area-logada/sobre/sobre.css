@@ -11,7 +11,7 @@
   text-align: right;
   list-style: none;
   display: flex;
-  justify-content: flex;
+  justify-content: flex-end;
   padding: 16px;
   margin: 0;
   margin-right: 10px;
@@ -110,7 +110,7 @@ body {
     text-align: right;
     list-style: none;
     display: flex;
-    justify-content: flex;
+    justify-content: flex-end;
     padding: 16px;
     margin: 0;
     margin-right: 10px;
