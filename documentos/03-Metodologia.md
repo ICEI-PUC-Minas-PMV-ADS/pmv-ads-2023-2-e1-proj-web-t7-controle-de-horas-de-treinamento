@@ -18,11 +18,11 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 - Equipe de Documentação: responsáveis por relatar todas as etapas do projeto -
   André Samuel Teixeira Fernandes;
-  Daniella Santos Costa;
+  Daniella Santos Costa *(responsável)*;
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
   Leonardo Santos Zanette;
-  Matheus Vinício Santos Costa *(responsável)*.
+  Matheus Vinício Santos Costa.
 
 - Equipe de Design: responsávies por criar o layout das páginas de acordo com o fluxo do usuário -
   André Samuel Teixeira Fernandes;
@@ -36,13 +36,13 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   André Samuel Teixeira Fernandes;
   Daniella Santos Costa;
   Dhavi Vilella Malafaya;
-  Leonardo Engler Arruda *(responsável)*;
+  Leonardo Engler Arruda;
   Leonardo Santos Zanette;
-  Matheus Vinício Santos Costa.
+  Matheus Vinício Santos Costa *(responsável)*.
 
 - Equipe de Revisão: responsáveis por analisarem todas as partes dos projetos fazendo os ajustes necessários
-  André Samuel Teixeira Fernandes *(responsável)*;
-  Daniella Santos Costa;
+  André Samuel Teixeira Fernandes;
+  Daniella Santos Costa *(responsável)*;
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
   Leonardo Santos Zanette;
