@@ -46,7 +46,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   Dhavi Vilella Malafaya;
   Leonardo Engler Arruda;
   Leonardo Santos Zanette;
-  Matheus Vinício Santos Costa.
+  Matheus Vinício Santos Costa *(responsável)*.
 
 ### Processo
 
