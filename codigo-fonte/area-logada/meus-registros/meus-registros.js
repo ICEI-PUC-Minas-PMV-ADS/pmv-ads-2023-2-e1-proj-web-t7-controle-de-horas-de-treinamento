@@ -23,46 +23,6 @@ document.getElementById("gerarRelatorio").addEventListener("click", () => {
 
 const ctx = document.getElementById("myChart");
 
-function createDynamicHTML(data) {
-  const container = document.getElementById("output-container");
-
-  const totalRecordsDiv = document.createElement("div");
-  totalRecordsDiv.innerHTML = `
-      <div>
-          <div class="lighter-rectangle rectangle-text">TOTAL DE REGISTROS</div>
-          <div class="rectangle rectangle-text">${data.totalRecords}</div>
-      </div>
-  `;
-  container.appendChild(totalRecordsDiv);
-
-  const porAnoHeading = document.createElement("h2");
-  porAnoHeading.textContent = "POR ANO";
-  container.appendChild(porAnoHeading);
-
-  data.yearRecords.forEach((yearRecord) => {
-    const yearContainer = document.createElement("div");
-    yearContainer.classList.add("training-rectangle-container");
-    yearContainer.innerHTML = `
-          <div class="lighter-rectangle-row rectangle-text">${yearRecord.year}</div>
-          <div class="rectangle-row rectangle-text">${yearRecord.records}</div>
-      `;
-    container.appendChild(yearContainer);
-  });
-}
-
-createDynamicHTML(dynamicData);
-
-const dynamicData = {
-  totalRecords: 31,
-  yearRecords: [
-    { year: 2021, records: 8 },
-    { year: 2022, records: 12 },
-    { year: 2023, records: 11 },
-  ],
-};
-
-createDynamicHTML(dynamicData);
-
 function getDatasetObject() {
   const anosComTreino = registros.map((registro) => {
     return registro.dataInicio.substring(0, 4);
@@ -102,6 +62,39 @@ function getDatasetObject() {
 function getData(control) {
   return control.registros.map((registro) => registro.cargaHoraria);
 }
+
+const amount2021 = registros.filter(
+  (registro) => registro.dataInicio.substring(0, 4) === "2021"
+).length;
+
+const amount2022 = registros.filter(
+  (registro) => registro.dataInicio.substring(0, 4) === "2022"
+).length;
+
+const amount2023 = registros.filter(
+  (registro) => registro.dataInicio.substring(0, 4) === "2023"
+).length;
+
+const amountTotal = amount2021 + amount2022 + amount2023;
+
+document.querySelector(
+  ".default-text.user-name"
+).innerHTML = `Olá, ${usuarioAtual}`;
+
+document.querySelector(".rectangle-row.rectangle-text-2021").innerHTML =
+  amount2021;
+
+document.querySelector(".rectangle-row.rectangle-text-2022").innerHTML =
+  amount2022;
+
+document.querySelector(".rectangle-row.rectangle-text-2023").innerHTML =
+  amount2023;
+
+document.querySelector(".rectangle.rectangle-text-total").innerHTML =
+  amountTotal;
+
+document.querySelector(".rectangle.rectangle-text-total").innerHTML =
+  amountTotal;
 
 getDatasetObject();
 
