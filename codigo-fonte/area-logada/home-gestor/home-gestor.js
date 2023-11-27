@@ -1,5 +1,17 @@
-const registros = JSON.parse(localStorage.getItem("registroFormData"));
-const usuarioAtual = JSON.parse(localStorage.getItem("users"))[0].user || "";
+const registros = JSON.parse(localStorage.getItem("registroFormData")) || [];
+
+const usuarioAtual = JSON.parse(localStorage.getItem("usuarioLogado")).user || "";
+const emailAtual = JSON.parse(localStorage.getItem("usuarioLogado")).email || "";
+
+
+
+// const registros = todoRegistros.filter(function (params) {
+//     return params.usuario === emailAtual;
+//   })
+
+
+const registrosPorHora = registros.map((registro) => registro.cargaHoraria);
+
 let setores = [];
 let cargaHoraria = 0;
 
@@ -16,22 +28,6 @@ document.getElementById("gerarRelatorio").addEventListener("click", () => {
 
   XLSX.writeFile(workbook, `registros-de-treinamento-${usuarioAtual}.xlsx`);
 });
-
-document
-  .getElementById("relatorio-horas-por-gestor")
-  .addEventListener("click", () => {
-    const workbook = XLSX.utils.book_new();
-    const worksheet = XLSX.utils.json_to_sheet(
-      Object.entries(setores).map(([setor, horas]) => ({
-        Setor: setor,
-        Horas: horas,
-      }))
-    );
-    XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet 1");
-
-    XLSX.writeFile(workbook, "registros-treinamento-por-setor.xlsx");
-  });
-1;
 
 const ctx = document.getElementById("myChart");
 
@@ -51,22 +47,15 @@ function getDatasetObject() {
         if (!controls[ano]) {
           controls[ano] = {
             ano: ano,
-            registros: [],
+            registros: [registro],
           };
-          controls[ano].registros[registro.dataInicio.substring(5, 7)] = Number(
-            registro.cargaHoraria
-          );
         } else {
-          const mes = registro.dataInicio.substring(5, 7);
-          if (!controls[ano].registros[mes]) {
-            controls[ano].registros[mes] = Number(registro.cargaHoraria);
-          } else {
-            controls[ano].registros[mes] += Number(registro.cargaHoraria);
-          }
+          controls[ano].registros.push(registro);
         }
       }
     });
   });
+
   const filtered = [];
   controls.forEach((control) => {
     filtered.push({
@@ -79,10 +68,7 @@ function getDatasetObject() {
 }
 
 function getData(control) {
-  for (let i = 0; i <= 12; i++) {
-    if (!control.registros[i]) control.registros[i] = 0;
-  }
-  return control.registros.map((registro) => registro);
+  return control.registros.map((registro) => registro.cargaHoraria);
 }
 
 const amount2021 = registros.filter(
@@ -118,23 +104,12 @@ document.querySelector(".rectangle.rectangle-text-total").innerHTML =
 document.querySelector(".rectangle.rectangle-text-total").innerHTML =
   amountTotal;
 
+getDatasetObject();
+
 new Chart(ctx, {
   type: "line",
   data: {
-    labels: [
-      "Janeiro",
-      "Fevereiro",
-      "Março",
-      "Abril",
-      "Maio",
-      "Junho",
-      "Julho",
-      "Agosto",
-      "Setembro",
-      "Outubro",
-      "Novembro",
-      "Dezembro",
-    ],
+    labels: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio"],
     datasets: getDatasetObject(),
   },
   options: {
