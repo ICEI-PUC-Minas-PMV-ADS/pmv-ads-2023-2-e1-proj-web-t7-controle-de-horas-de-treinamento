@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
     <title>LOGIN</title>
-    
+
     <script src="./login.js"></script>
 </head>
 
@@ -17,8 +17,9 @@
 <body>
     <div class="login-container">
         <h1><b>Login</b></h1>
-        <p class="create-account-button"><a href="../cadastro/cadastro.html">Clique aqui para criar novo cadastro</a></p>
-       
+        <p class="create-account-button"><a href="../cadastro/cadastro.html">Clique aqui para criar novo cadastro</a>
+        </p>
+
         <div class="stripe bottom"></div>
         <div class="login-form">
             <form id="formlogin">
@@ -33,14 +34,14 @@
                 <p class="forgot-password"><a href="#">Esqueceu a senha?</a></p>
                 <button class="login-button" type="submit" id="enviaFormulario">
                     ENTRAR
-                    <!-- <a href="../../area-logada/home-colaborador/home-colaborador.html">ENTRAR</a> -->
                 </button>
             </form>
         </div>
     </div>
-     <!-- <script>
-        createUsers();
-    </script> -->
+    <script>
+        //createUsers();
+        limpaUsuarioLogado();
+    </script>
 </body>
 
 </html>
