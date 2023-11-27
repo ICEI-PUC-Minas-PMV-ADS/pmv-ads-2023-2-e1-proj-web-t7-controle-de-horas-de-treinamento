@@ -82,11 +82,11 @@ body {
 }
 
 .image-container {
-  position: relative; /* Crie um contexto de posicionamento para a imagem */
+  position: relative; 
 }
 
 .image {
-  position: absolute; /* Posicione a imagem de forma absoluta */
+  position: absolute; 
   top: -210px;
   right: -450px; /* Ajuste conforme necessário para controlar a sobreposição */
   width: 588px;
@@ -156,7 +156,7 @@ body {
   .content {
     display: flex;
     align-items: center;
-    position: relative; /* Crie um contexto de posicionamento */
+    position: relative; 
   }
   
   .yellow-box {
