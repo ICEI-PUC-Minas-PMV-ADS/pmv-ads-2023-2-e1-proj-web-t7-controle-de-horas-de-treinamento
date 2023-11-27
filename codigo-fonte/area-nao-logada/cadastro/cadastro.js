@@ -7,7 +7,7 @@ function cadastraUsuario(nome, senha, email) {
     user: nome,
     email,
     password: senha,
-    isTraining: false,
+    isManager: false,
   };
 
   // Inseri o usuário na ultima posição do array
@@ -28,10 +28,10 @@ function isNullValuesAlert(field, message) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  // Obtenha uma referência para o formulário
+  // Obter uma referência para o formulário
   const formulario = document.getElementById("formulario");
   if (formulario) {
-    // Adicione um ouvinte de evento ao formulário
+    // Adicionar um ouvinte de evento ao formulário
     formulario.addEventListener("submit", function (event) {
       event.preventDefault(); // Impede o envio padrão do formulário
       // Execute ações personalizadas aqui
