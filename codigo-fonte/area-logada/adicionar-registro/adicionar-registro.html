@@ -16,6 +16,7 @@
         <li> <a href="../home-colaborador/home-colaborador.html">PÁGINA INICIAL</a></li>
         <li><a href="../sobre/sobre.html">SOBRE</a></li>
         <li><a href="../meus-registros/meus-registros.html">REGISTROS</a></li>
+        <li><a href="../../area-nao-logada/login/login.html">SAIR</a></li>
     </ul>
 </header>
 
@@ -36,7 +37,7 @@
                 <div class="campo-container">
                     <label for="tipo">TIPO</label>
                     <select class="tipo" id="tipo" required>
-                        <option disabled value="">Selecione</option>
+                        <option disabled selected>- Selecione -</option>
                         <option>Curso de Curta Duração</option>
                         <option>Workshop</option>
                         <option>Vídeo Aula</option>
@@ -49,7 +50,7 @@
                     <input class="field" type="text" name="instituicao" id="instituicao" required>
                 </div>
             </div>
-            <div class="container-linha">
+            <div class="container-linha3">
                 <div class="campo-container">
                     <label for="data-inicio">INÍCIO</label>
                     <input class="tempo" type="date" name="data-inicio" id="data-inicio" required>
@@ -63,7 +64,7 @@
                 <div class="campo-container">
                     <label for="anexo-campo">ANEXO</label>
                     <fieldset class="anexo">
-                        <input type="file" name="arquivo" class="anexocampo" id="anexo-campo" required>
+                        <input type="file" name="arquivo" class="anexocampo" id="anexo-campo">
                     </fieldset>
                 </div>
             </div>
@@ -71,7 +72,7 @@
                 <div class="campo-container">
                     <label for="setor">SETOR</label>
                     <select class="setor" id="setor" required>
-                        <option disabled value="">Selecione</option>
+                        <option disabled selected>- Selecione -</option>
                         <option>Gerência Financeira</option>
                         <option>Secretária de Contratos</option>
                         <option>Presidência</option>
