@@ -1,6 +1,14 @@
-const registros = JSON.parse(localStorage.getItem("registroFormData"));
+const todoRegistros = JSON.parse(localStorage.getItem("registroFormData")) || [];
 
-const usuarioAtual = JSON.parse(localStorage.getItem("users"))[0].user || "";
+const usuarioAtual = JSON.parse(localStorage.getItem("usuarioLogado")).user || "";
+const emailAtual = JSON.parse(localStorage.getItem("usuarioLogado")).email || "";
+
+
+
+const registros = todoRegistros.filter(function (params) {
+    return params.usuario === emailAtual;
+  })
+
 
 const registrosPorHora = registros.map((registro) => registro.cargaHoraria);
 
