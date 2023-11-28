@@ -4,11 +4,10 @@ Foram programados 03 casos de testes da aplicação, o primeiro caso inclui a si
 Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 |Caso de Teste    | CT-01 - Cadastro e lançamento dos cursos realizados |
-|:---|:---|
+|:---|:---| 
 | Requisitos Associados | RF-01 RF-02 |
 | Objetivo do Teste | Simular a utilização do usuário na aplicação Web através do cadastramento e lançamento das horas de treinamento |
-| Passos | Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html)
-|ss
+| Passos | 01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html); 02. Clicar em "Clique aqui para criar novo cadastro"; 03. Preencher os dados na tela de Cadastro e confirmar; 04. Preencher na tela de Login o email e senha cadastrados; 05. Na página Home Colaborador, clicar em Registros no menu superior esquerdo; 06. 
 | Critérios de êxito | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
  
