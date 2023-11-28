@@ -1,14 +1,14 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
+Foram programados 03 casos de testes da aplicação, o primeiro caso inclui a simulação da utilização do usuário colaborador de todos os recursos da aplicação desde o cadastro, validando os requisitos funcionais RF-01, RF-02, o segundo estudo de caso avalia o requisito não funcional RNF-02 relativo a responsividade da aplicação, o terceiro simula a utilização do usuário Gestor, representado pela equipe de treinamento da empresa em estudo, validando os requisitos funcionais RF-03 e RF-04. 
+Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
-
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-01 - Cadastro e lançamento dos cursos realizados |
 |:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
+| Requisitos Associados | RF-01 RF-02 |
+| Objetivo do Teste | Simular a utilização do usuário na aplicação Web através do cadastramento e lançamento das horas de treinamento |
+| Passos | Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html)
+|ss
 | Critérios de êxito | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
  
