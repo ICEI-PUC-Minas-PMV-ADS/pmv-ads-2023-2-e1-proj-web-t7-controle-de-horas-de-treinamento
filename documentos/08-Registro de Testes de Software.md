@@ -6,7 +6,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-01 - Teste de utilização do usuário |
 |:---|:---|
-| Resultados obtidos | Esse teste tem como objetivo validar todo o caminho/ações que um colaborador deverá fazer para realizar o lançamento de horas com treinamentos e cursos. O resultado obtido foi satisfatório  |
+| Resultados obtidos | Esse teste tem como objetivo validar todo o caminho/ações que um colaborador deverá fazer para realizar o lançamento de horas com treinamentos e cursos. O resultado obtido foi satisfatório. Porém o gráfico da tela de "Registros" necessita de revisão, os dados lançados no formulário estão sendo compilados de forma equivocada, lançados em meses diferentes do registro |
 | Responsável pela execução do caso de Teste | Daniella Santos Costa |
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/ebaaea8d-d7b0-435f-9b6c-b5a8f510ae9e
