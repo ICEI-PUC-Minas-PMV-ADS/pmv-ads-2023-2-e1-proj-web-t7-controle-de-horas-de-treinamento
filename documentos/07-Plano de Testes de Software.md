@@ -16,7 +16,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Requisitos Associados | RNF-02 |
 | Objetivo do Teste | Testar a responsividade das telas |
 | Passos | Para o teste foi utilizado o celular Poco x3 GT, recurso utilizado para validar a responsividade de todas as telas da aplicação. Para cada tela da aplicação foi retirado um print.
-| Critérios de êxito | Adaptação de todas as telas da aplicação em uma tela reduzida  |
+| Critérios de êxito | Adaptação de todas as telas da aplicação em uma escala reduzida  |
 | Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
 ---------------------------------------------------------------------------------------------------------------------
 |Caso de Teste    | CT-03 - Cadastro e lançamento dos cursos realizados |
