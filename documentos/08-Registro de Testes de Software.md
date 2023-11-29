@@ -4,16 +4,17 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-01 - Teste do Usuário |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+| Resultados obtidos | Esse teste tem como objetivo validar todo o caminho que um colaborador deverá fazer para realizar o lançamento de horas com treinamentos e cursos. O resultado obtido foi satisfatório  |
+| Responsável pela execução do caso de Teste | Daniella Santos Costa |
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/ebaaea8d-d7b0-435f-9b6c-b5a8f510ae9e
 
 
-
-|Caso de Teste    | CT-02 - Teste de Responsividade |
+|Caso de Teste    | CT-03 - Teste de Responsividade |
 |:---|:---|
-| Resultados obtidos | Esse teste tinha como objetivo validar a responsividade de todas as páginas da aplicação web. O Resultado ostido foi satisfatório.  |
+| Resultados obtidos | Esse teste tem como objetivo validar a responsividade de todas as páginas da aplicação web. O Resultado obtido foi satisfatório.  |
 | Responsável pela execução do caso de Teste | Matheus Vinício Santos Costa |
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/98ae2b47-ee1e-4fdc-ad06-97a0cde290e7
