@@ -22,7 +22,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 |Caso de Teste    | CT-03 - Cadastro e lançamento dos cursos realizados |
 |:---|:---|
 | Requisitos Associados | RF-04 RF-04 |
-| Objetivo do Teste | Testar a responsividade das telas |
+| Objetivo do Teste | Simular a utilização por parte da equipe de Treinamentos utilização da aplicação Web através da extração de dados para análise das horas de trinamentos lançadas pelos colaboradores da organização |
 | Passos | <p>01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html);</p> <p>02. Inserir o email e senha do usuário gestor;</p> <p>03. Visualizar os lançamentos realizados;</p> <p>04. Clicar na impressora no canto superior direito da tela, imprimindo o excel com os dados lançados pelos usuários;</p>
 | Critérios de êxito | Possibilidade de filtrar a visualização dos dados lançados por setor e impressão dos dados em excel  |
 | Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
