@@ -4,7 +4,7 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
 
-|Caso de Teste    | CT-01 - Cadastro e lançamento dos cursos realizados |
+|Caso de Teste    | CT-01 - Teste de utilização do usuário |
 |:---|:---|
 | Resultados obtidos | Esse teste tem como objetivo validar todo o caminho que um colaborador deverá fazer para realizar o lançamento de horas com treinamentos e cursos. O resultado obtido foi satisfatório  |
 | Responsável pela execução do caso de Teste | Daniella Santos Costa |
