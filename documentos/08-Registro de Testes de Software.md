@@ -11,7 +11,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 
 
-|Caso de Teste    | CT-X - Teste de Responsividade |
+|Caso de Teste    | CT-02 - Teste de Responsividade |
 |:---|:---|
 | Resultados obtidos | Esse teste tinha como objetivo validar a responsividade de todas as páginas da aplicação web. O Resultado ostido foi satisfatório.  |
 | Responsável pela execução do caso de Teste | Matheus Vinício Santos Costa |
