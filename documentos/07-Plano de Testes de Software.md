@@ -7,7 +7,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 |:---|:---| 
 | Requisitos Associados | RF-01 RF-02 |
 | Objetivo do Teste | Simular a utilização do usuário na aplicação Web através do cadastramento e lançamento das horas de treinamento |
-| Passos | 01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html); 02. Clicar em "Clique aqui para criar novo cadastro"; 03. Preencher os dados na tela de Cadastro e confirmar; 04. Preencher na tela de Login o email e senha cadastrados; 05. Na página Home Colaborador, clicar em Registros no menu superior direito; 06.Clicar no símbolo de + (adicionar novo registro); 06. Lançar no formulário os dados solicitados;  
+| Passos | <p>01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html);</p> <p>02. Clicar em "Clique aqui para criar novo cadastro";</p> <p>03. Preencher os dados na tela de Cadastro e confirmar;</p> <p>04. Preencher na tela de Login o email e senha cadastrados;</p> <p>05. Na página Home Colaborador, clicar em Registros no menu superior direito;</p> <p>06.Clicar no símbolo de + (adicionar novo registro);</p> <p>06. Lançar no formulário os dados solicitados;</p>  
 | Critérios de êxito | Os registros realizados no formulário, devem ser visualizados na tela registros e impressos em excel |
 | Responsável pela elaborar do caso de Teste | Daniella Santos Costa |
 ---------------------------------------------------------------------------------------------------------------------
@@ -23,6 +23,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 |:---|:---|
 | Requisitos Associados | RF-04 RF-04 |
 | Objetivo do Teste | Testar a responsividade das telas |
-| Passos | 01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html); 02. Inserir o email e senha do usuário gestor; 03. Visualizar os lançamentos realizados; 04. Clicar na impressora no canto superior direito da tela, imprimindo o excel com os dados lançados pelos usuários;
+| Passos | <p>01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html);</p> <p>02. Inserir o email e senha do usuário gestor;</p> <p>03. Visualizar os lançamentos realizados;</p> <p>04. Clicar na impressora no canto superior direito da tela, imprimindo o excel com os dados lançados pelos usuários;</p>
 | Critérios de êxito | Possibilidade de filtrar a visualização dos dados lançados por setor e impressão dos dados em excel  |
 | Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
