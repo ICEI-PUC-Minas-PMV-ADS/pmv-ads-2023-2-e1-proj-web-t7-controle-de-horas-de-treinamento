@@ -17,13 +17,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Matheus Vinício Santos Costa |
 
 
-
-
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/98ae2b47-ee1e-4fdc-ad06-97a0cde290e7
 
-
-
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/5bce28ca-5a8d-4fc6-b70d-bd3ecf720a6b
 
 
