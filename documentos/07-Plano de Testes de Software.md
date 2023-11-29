@@ -10,10 +10,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | 01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html); 02. Clicar em "Clique aqui para criar novo cadastro"; 03. Preencher os dados na tela de Cadastro e confirmar; 04. Preencher na tela de Login o email e senha cadastrados; 05. Na página Home Colaborador, clicar em Registros no menu superior direito; 06.Clicar no símbolo de + (adicionar novo registro); 06. Lançar no formulário os dados solicitados;  
 | Critérios de êxito | Os registros realizados no formulário, devem ser visualizados na tela registros e impressos em excel |
 | Responsável pela elaborar do caso de Teste | Daniella Santos Costa |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+---------------------------------------------------------------------------------------------------------------------
+|Caso de Teste    | CT-01 - Cadastro e lançamento dos cursos realizados |
+|:---|:---|
+| Requisitos Associados | RNF-02 |
+| Objetivo do Teste | Testar a responsividade das telas |
+| Passos | Para o teste foi utilizado o celular Poco x3 GT, recurso utilizado para validar a responsividade de todas as telas da aplicação. Para cada tela da aplicação foi retirado um print.
+| Critérios de êxito | Adaptação de todas as telas da aplicação em uma tela reduzida  |
+| Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
+---------------------------------------------------------------------------------------------------------------------
+|Caso de Teste    | CT-01 - Cadastro e lançamento dos cursos realizados |
+|:---|:---|
+| Requisitos Associados | RF-04 RF-04 |
+| Objetivo do Teste | Testar a responsividade das telas |
+| Passos | 01. Acessar a página inicial da aplicação, tela de [Login](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-nao-logada/login/login.html); 02. Inserir o email e senha do usuário gestor; 03. Visualizar os lançamentos realizados; 04. Clicar na impressora no canto superior direito da tela, imprimindo o excel com os dados lançados pelos usuários;
+| Critérios de êxito | Possibilidade de filtrar a visualização dos dados lançados por setor e impressão dos dados em excel  |
+| Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
