@@ -14,7 +14,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle
 
 |Caso de Teste    | CT-02 - Teste de Responsividade |
 |:---|:---|
-| Resultados obtidos | Esse teste tem como objetivo validar a responsividade de todas as páginas da aplicação web. O Resultado obtido foi satisfatório.  |
+| Resultados obtidos | Esse teste tem como objetivo validar a responsividade de todas as páginas da aplicação web. O Resultado obtido foi satisfatório. Porém a tela de "Registros", necessita de melhoria, pois ainda não está responsiva |
 | Responsável pela execução do caso de Teste | Matheus Vinício Santos Costa |
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/98ae2b47-ee1e-4fdc-ad06-97a0cde290e7
