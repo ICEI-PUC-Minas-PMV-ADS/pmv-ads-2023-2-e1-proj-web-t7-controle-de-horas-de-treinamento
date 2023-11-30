@@ -94,7 +94,7 @@ RF-04: Gerar visualização com o comparativo de horas de treinamento por setor.
 ![imprimir excel gestor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/gestor%20cod%20relatorio.png)
 
 # Gerar visualização de gráfico
-(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/visualiza%C3%A7%C3%A3o%20de%20tela.png)
+![tela de visualização](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/visualiza%C3%A7%C3%A3o%20de%20tela.png)
 
 #### Instruções de acesso
 
