@@ -36,7 +36,7 @@ Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-p
 Ao clicar em “Novo Registro” no canto superior esquerdo da tela, terá acesso a página.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Adicionar Registro (RF-02)
+### Gerar relatório de dados do usuário colaborador (RF-02)
 
 Responsável: Leonardo Arruda
 
@@ -68,7 +68,7 @@ Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-p
 Ao clicar no ícone de impressora no canto superior direito da tela, será realizado o download do excel com o histórico de dados. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Adicionar Registro (RF-03 RF-04)
+### Visualizar dados e impressão de relatório de todos os lançamentos de cursos realizados (RF-03 RF-04)
 
 Responsável: Leonardo Arruda
 
@@ -90,10 +90,10 @@ RF-04: Gerar visualização com o comparativo de horas de treinamento por setor.
 
 #### Estrutura de Dados
 
-# js para impressão do relatório em excel
+##### js para impressão do relatório em excel
 ![imprimir excel gestor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/gestor%20cod%20relatorio.png)
 
-# Gerar visualização de gráfico
+##### Gerar visualização de gráfico
 ![tela de visualização](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/visualiza%C3%A7%C3%A3o%20de%20tela.png)
 
 #### Instruções de acesso
