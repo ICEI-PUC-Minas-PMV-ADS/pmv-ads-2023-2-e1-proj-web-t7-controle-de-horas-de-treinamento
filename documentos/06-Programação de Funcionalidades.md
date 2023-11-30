@@ -67,5 +67,38 @@ RF-02: Gerar relatório com o histórico dos registros realizados.
 Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-logada/meus-registros/meus-registros.html
 Ao clicar no ícone de impressora no canto superior direito da tela, será realizado o download do excel com o histórico de dados. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Adicionar Registro (RF-03 RF-04)
+
+Responsável: Leonardo Arruda
+
+O acesso a tela home gestor poderá ser feito através da tela login, ao inserir o e-mail: qualifique@gestor.com e a senha: 55, acessando o menu superior direito. Para imprimir os dados referente aos cursos realizados, no formato de relatório excel, deve clicar no ícone de impressora no canto superior direito da página. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+![Tela registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/gestor%20tela.png)
+
+#### Requisito atendido
+
+RF-03: Gerar um relatório específico extraindo o número de horas categorizadas por setor.
+RF-04: Gerar visualização com o comparativo de horas de treinamento por setor.
+
+#### Artefatos da funcionalidade
+
+* home-gestor.css
+* home-gestor.html
+* home-gestor.js
 
 
+#### Estrutura de Dados
+
+# js para impressão do relatório em excel
+![imprimir excel gestor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/gestor%20cod%20relatorio.png)
+
+# Gerar visualização de gráfico
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/blob/main/documentos/img/visualiza%C3%A7%C3%A3o%20de%20tela.png)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/codigo-fonte/area-logada/home-gestor/home-gestor.html
+Ao clicar no ícone de impressora no canto superior direito da tela, será realizado o download do excel com o histórico de todos os dados lançados na aplicação, com a possibilidade de realizar filtro por setor.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
