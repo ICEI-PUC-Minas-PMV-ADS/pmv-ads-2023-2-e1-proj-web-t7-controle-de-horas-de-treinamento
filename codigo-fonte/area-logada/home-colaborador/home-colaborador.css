@@ -58,14 +58,13 @@ body {
     margin: auto;
     position: relative;
     color: #ffffff;
-    font-family: 'Poppins Medium', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .container img {
     width: 100%;
     height: 605px;
-    opacity: 50%;
-    
+    opacity: 40%;
 }
 
 .titulo {
@@ -125,16 +124,14 @@ body {
 
     .titulo {    
         top: 20%;
-        Left: 37%;
-        font-weight: bold;               
+        Left: 37%;           
     }
     .subtitulo {        
         Left: 15%;
         top: 40%;
         text-align:center;
         font-size: x-large;
-        padding: 15px; 
-        font-weight: bold;     
+        padding: 15px;     
     }
     .button {
         
@@ -155,8 +152,7 @@ body {
         font: center;
         position: center;
         top: 20%;
-        Left: 34%;
-        font-weight: bolder;               
+        Left: 34%;           
     }
     .subtitulo {        
         Left: 15%;
@@ -170,7 +166,6 @@ body {
         
         top: 60%;
         left: 42%;
-    
     }    
 }
 
@@ -194,7 +189,6 @@ body {
             text-align: center;
             font-size: medium;
             padding: 115px; 
-            font-weight: bolder;      
            }  
         
         }      
@@ -219,7 +213,6 @@ body {
                 text-align: center;
                 font-size: medium;
                 padding: 18px; 
-                font-weight: bolder;      
                }  
                .menu {
                 padding: 16px;
@@ -249,8 +242,7 @@ body {
         font: center;
         position: center;
         top: 25%;   
-        Left: 20%;
-        font-weight: bold;               
+        Left: 20%;              
     }
     .subtitulo {        
         Left: 0%;
