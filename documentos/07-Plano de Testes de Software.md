@@ -11,7 +11,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito | Os registros realizados no formulário, devem ser visualizados na tela registros e impressos em excel |
 | Responsável pela elaborar do caso de Teste | Daniella Santos Costa |
 ---------------------------------------------------------------------------------------------------------------------
-|Caso de Teste    | CT-02 - Responsividade das telas |
+|Caso de Teste    | CT-02 - Teste de responsividade |
 |:---|:---|
 | Requisitos Associados | RNF-02 |
 | Objetivo do Teste | Testar a responsividade das telas |
@@ -19,7 +19,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito | Adaptação de todas as telas da aplicação em uma escala reduzida  |
 | Responsável pela elaborar do caso de Teste | Matheus Vinicio Santos Costa |
 ---------------------------------------------------------------------------------------------------------------------
-|Caso de Teste    | CT-03 - Simular a utilização do setor de treinamento e extração de todos os dados lançados na aplicação em planilha Excel |
+|Caso de Teste    | CT-03 - Teste de utilização da equipe de treinamento |
 |:---|:---|
 | Requisitos Associados | RF-04 RF-04 |
 | Objetivo do Teste | Simular a utilização por parte da equipe de Treinamentos utilização da aplicação Web através da extração de dados para análise das horas de trinamentos lançadas pelos colaboradores da organização |
