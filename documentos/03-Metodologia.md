@@ -96,6 +96,18 @@ Segue abaixo, informações sobre a implementação do Scrum seguido pela equipe
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8236758c-6888-4236-ac7c-f440cf42d6d2)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/6f4eebe0-f8f1-49ec-bf3b-b1491bab0221)
 
+- Sprint 5:
+
+  *Planejamento*: entregar apresentação com descrição de contexto, soluções implantadas e conclusão, assim como vídeo mostrando as funcionalidades.
+
+  *Execução*: nesta etapa houve participação somente de dois membros da equipe. Foi entregue nessa etapa um vídeo mostrando todas as funcionalidades da aplicação. Para isso foi utilizado o aplicativo da Microsoft Clipchamp para gravar e editar o vídeo. Para a elaboração da apresentação foi utilizado o Canva, por esse motivo o arquivo foi salvo em PDF, pois quando baixado em PPT perde a qualidade e algumas formatações. Foram realizadas também nessa etapa uma revisão do trabalho como um todo.
+
+  *Evidência*:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/8dda9381-127a-44e5-a19b-6152efe2163c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/14868834-d719-402b-b6cd-6ca27d9de6d2)
+
+
 ### Etiquetas
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
@@ -115,7 +127,6 @@ As etiquetas ainda foram classificadas por cores, que as correlacionam por afini
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t7-controle-de-horas-de-treinamento/assets/145286942/c1fb4ab1-c410-48e6-94d8-fbd115b55709)
 
- 
 ### Ferramentas
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
@@ -128,7 +139,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Projeto de Interface                | Canva                              | [Canva](https://www.canva.com/)  |
 | Gerenciamento do Projeto            | GitHub Projects                    | [GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/659)                     |
 | Construção dos códigos              | Virtual Studio Code                | [Virtual Studio Code](https://code.visualstudio.com/)  |
-
+| Gravação e edição de vídeo          | Microsoft Clipchamp                | [Microsoft Clipchamp](https://clipchamp.com/pt-br/windows-video-editor/)                        |
+| Apresentação                        | Canva                              | [Canva](https://www.canva.com/)  |
 
 ## Estratégia de Organização de Codificação 
 
